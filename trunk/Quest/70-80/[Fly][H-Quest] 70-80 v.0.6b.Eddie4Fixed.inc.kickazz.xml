@@ -204,7 +204,9 @@
 <PickUp QuestName="Untold Truths" QuestId="11614" GiverName="Shadowstalker Barthus" GiverId="25394" />
 <TurnIn QuestName="Untold Truths" QuestId="11614" TurnInName="Shadowstalker Luther" TurnInId="25328" />
 <PickUp QuestName="Nerub'ar Secrets" QuestId="11615" GiverName="Shadowstalker Luther" GiverId="25328" />
+<While Condition="((HasQuest(11602)) &amp;&amp; (!IsQuestCompleted(11602)))">
 <Objective QuestName="Cutting Off the Source" QuestId="11602" Type="UseObject" ObjectId="187655" UseCount="10" />
+</While>
 <TurnIn QuestName="Nerub'ar Secrets" QuestId="11615" TurnInName="Shadowstalker Barthus" TurnInId="25394" />
 <PickUp QuestName="Message to Hellscream" QuestId="11616" GiverName="Shadowstalker Barthus" GiverId="25394" />
 <TurnIn QuestName="Message to Hellscream" QuestId="11616" TurnInName="Garrosh Hellscream" TurnInId="25237" />
