@@ -622,9 +622,16 @@
 </While>
 <TurnIn QuestName="A Suitable Test Subject" QuestId="11719" TurnInName="Bloodmage Laurith" TurnInId="25381" />
 <PickUp QuestName="The Invasion of Gammoth" QuestId="11720" GiverName="Bloodmage Laurith" GiverId="25381" />
+
+<!-- ###################################################################################################################### -->
+<If Condition="HasQuest(11720)" >
+<CustomBehavior File="BasicInteractWith" QuestId="0" NpcID="25809" /> 
+<CustomBehavior File="WaitTimer" WaitTime="1000"/> 
+<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" NumOfTimes="1" WaitTime="1000" />
+<CustomBehavior File="RunMacro" Macro="/click QuestFrameCompleteQuestButton" NumOfTimes="1" WaitTime="1000" />  
 <TurnIn QuestName="The Invasion of Gammoth" QuestId="11720" TurnInName="Primal Mighthorn" TurnInId="25380" />
-
-
+</If>
+<!-- ###################################################################################################################### -->
 
 <PickUp QuestName="Ears of Our Enemies" QuestId="11866" GiverName="Arch Druid Lathorius" GiverId="25809" GiverType="Npc" />
 <PickUp QuestName="Happy as a Clam" QuestId="11869" GiverName="Hierophant Cenius" GiverId="25810" GiverType="Npc" />
