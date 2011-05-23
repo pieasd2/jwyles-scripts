@@ -5,11 +5,11 @@
 	<MinLevel>1</MinLevel>
 	<MaxLevel>86</MaxLevel>
 	<MailGrey>False</MailGrey>
-	<MailWhite>False</MailWhite>
+	<MailWhite>True</MailWhite>
 	<MailGreen>True</MailGreen>
 	<SellGrey>True</SellGrey>
-	<SellWhite>True</SellWhite>
-	<SellGreen>True</SellGreen>
+	<SellWhite>False</SellWhite>
+	<SellGreen>False</SellGreen>
 	<SellBlue>False</SellBlue>
 	<SellPurple>False</SellPurple>
 
