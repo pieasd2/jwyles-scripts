@@ -1,0 +1,64 @@
+<HBProfile>
+	<Name>Scholazar Basin</Name>
+	<MinDurability>0.2</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<MailWhite>False</MailWhite>
+	<MailGreen>False</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<ProtectedItems>
+		<Item name="Fishing Pole" entry="6256" />
+		<Item name="Mastercraft Kalu'ak Fishing Pole" entry="44050" />
+		<Item name="Arcanite Fishing Pole" entry="19970" />
+		<Item name="Bone Fishing Pole" entry="45991" />
+		<Item name="Jeweled Fishing Pole" entry="45992" />
+		<Item name="Nat's Lucky Fishing Pole" entry="45858" />
+		<Item name="Seth's Graphite Fishing Pole" entry="25978" />
+		<Item name="Big Iron Fishing Pole" entry="6367" />
+		<Item name="Blump Family Fishing Pole" entry="12225" />
+		<Item name="Darkwood Fishing Pole" entry="6366" />
+		<Item name="Jonathan's Fishing Pole" entry="52678" />
+		<Item name="Strong Fishing Pole" entry="6365" />
+		<Item name="Staats' Fishing Pole" entry="46337" />
+	</ProtectedItems>
+	<SubProfile>
+		<Name>CrystalsongForest Flying Mount</Name>
+		<MinLevel>1</MinLevel>
+		<MaxLevel>87</MaxLevel>
+		<TargetMinLevel>87</TargetMinLevel>
+		<Factions>7 </Factions>
+		<Hotspots>
+
+<Hotspot X="5403.27" Y="4848.427" Z="-193.3024" />
+<Hotspot X="5373.583" Y="4816.136" Z="-192.4696" />
+<Hotspot X="5408.152" Y="4776.412" Z="-191.1378" />
+<Hotspot X="5495.996" Y="4794.983" Z="-193.9649" />
+<Hotspot X="5407.585" Y="4863.791" Z="-195.73" />
+<Hotspot X="5274.335" Y="4801.024" Z="-133.7688" />
+<Hotspot X="5194.445" Y="4812.425" Z="-131.8223" />
+<Hotspot X="5133.297" Y="4909.118" Z="-132.2235" />
+<Hotspot X="5063.896" Y="4992.285" Z="-129.839" />
+<Hotspot X="4991.751" Y="4992.432" Z="-105.775" />
+<Hotspot X="4924.018" Y="4947.731" Z="-102.8077" />
+<Hotspot X="4902.906" Y="4839.942" Z="-86.55412" />
+<Hotspot X="4804.086" Y="4782.188" Z="-68.82436" />
+<Hotspot X="4785.526" Y="4512.419" Z="-65.86773" />
+<Hotspot X="4824.827" Y="4397.605" Z="-56.77565" />
+<Hotspot X="4794.842" Y="4310.119" Z="-35.68323" />
+		</Hotspots>
+		<Vendors>
+
+		</Vendors>
+		<Blackspots>
+
+		</Blackspots>
+		<AvoidMobs>
+
+		</AvoidMobs>
+		<Mailboxes>
+		</Mailboxes>
+	</SubProfile>
+</HBProfile>
