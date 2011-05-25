@@ -1,0 +1,54 @@
+<HBProfile>
+	<Name>Deepholm - The Quacking Fields - Volatile Earth - JWLionKing</Name>
+	<MinDurability>0.4</MinDurability>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+	<SellGrey>True</SellGrey>
+	<SellWhite>False</SellWhite>
+	<SellGreen>False</SellGreen>
+	<MailWhite>True</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<ProtectedItems>
+	</ProtectedItems>
+	<SubProfile>
+		<Name>Deepholm - The Quacking Fields - Volatile Earth - JWLionKing</Name>
+		<MinLevel>1</MinLevel>
+		<MaxLevel>87</MaxLevel>
+		<TargetMinLevel>80</TargetMinLevel>
+		<Factions>14 16</Factions>
+		<Hotspots>
+			<Hotspot X="351.3505" Y="1250.754" Z="257.4167" />
+			<Hotspot X="328.8237" Y="1205.187" Z="260.7228" />
+			<Hotspot X="286.8448" Y="1267.163" Z="248.3171" />
+			<Hotspot X="236.3855" Y="1330.284" Z="230.7743" />
+			<Hotspot X="137.2052" Y="1325.278" Z="227.6285" />
+			<Hotspot X="128.9314" Y="1419.003" Z="219.5746" />
+			<Hotspot X="13.48001" Y="1441.839" Z="213.3626" />
+			<Hotspot X="-14.10193" Y="1390.429" Z="216.6127" />
+			<Hotspot X="-12.44429" Y="1261.342" Z="219.479" />
+			<Hotspot X="-53.43776" Y="1185.045" Z="219.7735" />
+			<Hotspot X="52.35672" Y="1121.371" Z="220.9849" />
+			<Hotspot X="61.81222" Y="1051.875" Z="227.5043" />
+			<Hotspot X="-73.18495" Y="1050.567" Z="215.8016" />
+			<Hotspot X="-118.0403" Y="1008.33" Z="212.1911" />
+			<Hotspot X="-141.9277" Y="934.7333" Z="210.9714" />
+			<Hotspot X="-108.7175" Y="862.4396" Z="215.7383" />
+			<Hotspot X="-148.8937" Y="818.5898" Z="214.0711" />
+			<Hotspot X="-47.66205" Y="750.8684" Z="225.612" />
+			<Hotspot X="-156.1362" Y="673.8254" Z="214.5917" />
+			<Hotspot X="-178.1261" Y="614.6477" Z="215.734" />
+			<Hotspot X="-12.96369" Y="654.1572" Z="227.4145" />
+		</Hotspots>
+		<Vendors>
+		</Vendors>
+		<Blackspots>
+
+		</Blackspots>
+		<AvoidMobs>
+
+		</AvoidMobs>
+		<Mailboxes>
+		</Mailboxes>
+	</SubProfile>
+</HBProfile>
