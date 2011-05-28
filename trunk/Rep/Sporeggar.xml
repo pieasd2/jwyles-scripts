@@ -1,0 +1,78 @@
+﻿<HBProfile>
+   <Name>Sporeggar - Quest Repuation to Exalted</Name>
+   <MinLevel>1</MinLevel>
+   <MaxLevel>86</MaxLevel>
+   <MinDurability>0.2</MinDurability>
+   <MinFreeBagSlots>2</MinFreeBagSlots>
+   <MailGrey>False</MailGrey>
+   <MailWhite>False</MailWhite>
+   <MailGreen>False</MailGreen>
+   <MailBlue>True</MailBlue>
+   <MailPurple>True</MailPurple>
+   <SellGrey>True</SellGrey>
+   <SellWhite>False</SellWhite>
+   <SellGreen>False</SellGreen>
+   <SellBlue>False</SellBlue>
+   <SellPurple>False</SellPurple>
+   <TargetElites>True</TargetElites>
+   <AvoidMobs>
+   </AvoidMobs>
+   <Blackspots>
+   </Blackspots>
+   <Mailboxes>
+   </Mailboxes>
+   <Vendors> 
+   </Vendors>
+   <Quest Name="Now That We're Still Friends..." Id="9727">
+       <Objective Type="KillMob" MobId="18089" KillCount="12">
+           <Hotspots>
+		<Hotspot X="350.4288" Y="8138.15" Z="21.82261" />
+		<Hotspot X="438.1672" Y="8156.029" Z="22.43118" />
+		<Hotspot X="527.6968" Y="8160.384" Z="22.78074" />
+		<Hotspot X="570.4767" Y="8060.898" Z="23.1252" />
+		<Hotspot X="458.9976" Y="8001.679" Z="19.09855" />
+           </Hotspots>
+       </Objective>
+       <Objective Type="KillMob" MobId="18088" KillCount="6">
+           <Hotspots>
+		<Hotspot X="350.4288" Y="8138.15" Z="21.82261" />
+		<Hotspot X="438.1672" Y="8156.029" Z="22.43118" />
+		<Hotspot X="527.6968" Y="8160.384" Z="22.78074" />
+		<Hotspot X="570.4767" Y="8060.898" Z="23.1252" />
+		<Hotspot X="458.9976" Y="8001.679" Z="19.09855" />
+           </Hotspots>
+       </Objective>
+   </Quest>
+
+   <QuestOrder>
+
+	<!-- This will stop the bot after you're Exalted -->
+
+	<If Condition="Me.GetReputationLevelWith(970) == Styx.WoWUnitReaction.Exalted" >
+		<CustomBehavior File="UserDialog" Title="title" AllowBotStop="True" SoundCue="Asterisk" SoundCueInterval="1" Text="You have reached Exalted\nIf you liked this profile, +rep is to Kick for his Quest-Templates" />
+	</If>
+
+	<CustomBehavior File="FlyTo" X="230.2784" Y="8482.974" Z="18.77743" />
+
+	<PickUp QuestName="Now That We're Still Friends..." QuestId="9727" GiverName="Gzhun'tt" GiverId="17856" />
+
+	<If Condition="(!HasQuest(9727))" >
+		<CustomBehavior File="FlyTo" X="230.2784" Y="8482.974" Z="18.77743" />
+		<CustomBehavior File="RunMacro" Macro="/dismount\n/cancelaura Swift Flight Form\n/cancelaura Flight Form" NumOfTimes="1" WaitTime="1500" />
+		<PickUp QuestName="Now That We're Still Friends..." QuestId="9727" GiverName="Gzhun'tt" GiverId="17856" />
+	</If>
+
+	<!-- Nav Issues -->
+
+	<CustomBehavior File="NoCombatMoveTo" QuestId="9727" X="230.2784" Y="8482.974" Z="18.77743" />
+	<CustomBehavior File="FlyTo" X="518.5219" Y="8103.788" Z="20.84436" />
+	<Objective QuestName="Now That We're Still Friends..." QuestId="9727" Type="KillMob" MobId="18089" KillCount="12" />
+	<Objective QuestName="Now That We're Still Friends..." QuestId="9727" Type="KillMob" MobId="18088" KillCount="6" />
+	<CustomBehavior File="FlyTo" X="230.2784" Y="8482.974" Z="18.77743" />
+	<TurnIn QuestName="Now That We're Still Friends..." QuestId="9727" TurnInName="Gzhun'tt" TurnInId="17856" />
+	<CustomBehavior File="LoadProfile" Profile="Sporeggar.xml" />
+
+   </QuestOrder>
+
+
+</HBProfile>
