@@ -1,0 +1,84 @@
+<HBProfile creator="Dartius" version="1.0" continent="530">
+	<!-- 													  -->
+	<!-- 		    Tested with 85 Feral Druid	 			  -->
+	<!-- If you decide to test this out, please post feedback -->
+	<!-- 													  -->
+	<!-- Contact Dartius @ Buddy Forum for more information   -->
+	<!-- 													  -->
+				<Name>Netherwing Crystal Farm</Name>
+	<!--			Recomended Level: 72+ 					  -->
+	<MinLevel>74</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	
+	<!-- Bigger bags, more loot, more kill-time -->
+	<MinDurability>0.3</MinDurability>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+	<!-- No mailboxes or flightpath support, 
+	so selling + big bags for this one. -->
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>False</SellGreen>
+	<SellBlue>False</SellBlue>
+	<SellPurple>False</SellPurple>
+   
+	<TargetElites>False</TargetElites>	
+	
+	<!-- Not necessary but ye -->
+	<AvoidMobs>
+       <Mob Name="Dragonmaw Skybreaker" Entry="22274" />
+	</AvoidMobs>
+	
+	<!-- Probably need to add some more -->
+	<Blackspots>
+		<Blackspot X="-5204.663" Y="228.5704" Z="-11.88537" Radius="10.72147" />
+		<Blackspot X="-5086.387" Y="418.532" Z="-2.483562" Radius="1.988334" />
+		<Blackspot X="-5029.856" Y="626.2927" Z="18.77439" Radius="11.92455" />
+		<Blackspot X="-5082.981" Y="417.1746" Z="-7.29901" Radius="10.2148" />
+	</Blackspots>
+   
+	<!-- Repair + Sell in Dragonmaw Base Camp -->
+	<Vendors>
+		<Vendor Name="Gug" Entry="23144" Type="Repair" X="-5119.803" Y="624.7665" Z="86.76044" />
+	</Vendors>
+   
+	<GrindArea>
+		<!-- There levelrange is made that because minimize possible errors -->
+		<TargetMinLevel>68</TargetMinLevel>
+		<TargetMaxLevel>74</TargetMaxLevel>
+		<!-- Just "monsters" factions -->
+		<Factions>14 16</Factions>
+		<!-- Big distance to make sure to get mostly mobs -->
+		<MaxDistance>60</MaxDistance>
+		<!-- Big cave, loads of hotspots -->
+		<Hotspots>
+			<Hotspot X="-5073.199" Y="331.2838" Z="5.427319" />
+			<Hotspot X="-5011.172" Y="285.2039" Z="0.4675915" />
+			<Hotspot X="-5012.109" Y="216.057" Z="-11.09338" />
+			<Hotspot X="-5153.708" Y="154.2524" Z="-12.70822" />
+			<Hotspot X="-5210.363" Y="141.3374" Z="-13.73865" />
+			<Hotspot X="-5230.601" Y="218.6935" Z="-12.3538" />
+			<Hotspot X="-5008.581" Y="158.0018" Z="-14.75405" />
+			<Hotspot X="-4958.16" Y="363.7147" Z="-2.189208" />
+			<Hotspot X="-4986.173" Y="465.6418" Z="6.021715" />
+			<Hotspot X="-4925.378" Y="492.1479" Z="1.083341" />
+			<Hotspot X="-4867.135" Y="467.0143" Z="-5.366489" />
+			<Hotspot X="-4922.563" Y="526.9089" Z="6.597512" />
+			<Hotspot X="-4943.184" Y="581.0388" Z="9.781806" />
+			<Hotspot X="-4971.845" Y="637.0971" Z="19.25255" />
+			<Hotspot X="-5003.993" Y="682.5967" Z="19.20614" />
+			<Hotspot X="-5002.577" Y="632.6689" Z="22.99226" />
+			<Hotspot X="-5093.861" Y="662.6597" Z="32.50216" />
+			<Hotspot X="-5043.875" Y="595.6421" Z="18.15142" />
+			<Hotspot X="-5075.032" Y="453.0652" Z="-9.462596" />
+			<Hotspot X="-5011.474" Y="541.2687" Z="-4.59659" />
+			<Hotspot X="-5100.867" Y="524.1042" Z="-10.58348" />
+			<Hotspot X="-5139.438" Y="483.7236" Z="-14.80144" />
+			<Hotspot X="-5165.881" Y="414.2763" Z="-10.31532" />
+			<Hotspot X="-5169.688" Y="346.6924" Z="-19.87467" />
+			<Hotspot X="-5038.721" Y="399.4458" Z="-12.61005" />
+			<Hotspot X="-5042.53" Y="328.705" Z="-1.635947" />
+		</Hotspots>
+	</GrindArea>
+   
+</HBProfile>
