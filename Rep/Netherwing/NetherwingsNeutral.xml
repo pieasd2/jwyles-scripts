@@ -52,23 +52,7 @@
 		<!-- Netherwing Vendor -->
 		<Vendor Name="Gug" Entry="23144" Type="Repair" X="-5119.803" Y="624.7665" Z="86.76037" />
 	</Vendors>
-  	<AvoidMobs>
-		<AvoidMob Name="Dragonmaw Ascendant" Entry="22253" />
-	</AvoidMobs>
-	<Quest Id="11020" Name="A Slow Death">
-		<Objective Type="CollectItem" ItemId="32502" CollectCount="12">
-			<CollectFrom>
-				<Mob Name="Greater Felfire Diemetradon" Id="21462" />
-			</CollectFrom>
-			<Hotspots>
-				<Hotspot X="-3886.827" Y="1097.439" Z="24.34726" />
-				<Hotspot X="-3968.351" Y="1186.677" Z="53.46835" />
-				<Hotspot X="-4134.213" Y="1628.002" Z="95.32986" />
-				<Hotspot X="-4194.14" Y="1684.052" Z="89.70618" />
-				<Hotspot X="-4234.383" Y="1648.875" Z="97.61179" />
-			</Hotspots>
-		</Objective>
-	</Quest>
+
  
 	<QuestOrder>
 	<!-- *****************   Pickup Quests    *********************** -->
@@ -84,7 +68,7 @@
 		<CustomBehavior File="FlyTo" X="-3896.194" Y="1066.923" Z="24.52164" />	
 		<CustomBehavior File="RunMacro" Macro="/dismount" NumOfTimes="1" WaitTime="3000" />
 		<Objective QuestName="A Slow Death" QuestId="11020" Type="Collect" CollectCount="12" ItemId="32502" />	
-		<!-- <RunTo QuestId="11020" X="-3896.194" Y="1066.923" Z="24.52164" /> -->
+		<RunTo QuestId="11020" X="-3896.194" Y="1066.923" Z="24.52164" />
 		<CustomBehavior File="FlyTo" X="-4978.365" Y="619.4327" Z="80.55907" />	
 		<CustomBehavior File="RunMacro" Macro="/dismount" NumOfTimes="1" WaitTime="3000" />
 	</If>
