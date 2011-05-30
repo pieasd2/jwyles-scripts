@@ -1,0 +1,70 @@
+<HBProfile creator="Rawe666" version="1.0">
+	<Name>Netherwing mines</Name>
+	<MinLevel>70</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.3</MinDurability>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+	
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>False</SellGreen>
+	<SellBlue>False</SellBlue>
+	
+	<MailWhite>True</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	
+	<TargetElites>False</TargetElites>
+  
+  
+
+  <SubProfile> <!-- Netherwing Ledge Mines -->
+   <Name>Netherwing</Name>
+   <MinLevel>70</MinLevel>
+   <MaxLevel>86</MaxLevel>
+   
+   <Vendors> <!--  Dragonmaw Airstrip -->
+		<Vendor Name="Gug" Entry="23144" Type="Repair" X="-5119.803" Y="624.7665" Z="86.76021" />
+   </Vendors>
+   
+   <Mailboxes> <!--  Dragonmaw Airstrip -->
+		<Mailbox X="-4055.606" Y="2181.252" Z="110.2282" /> 
+   </Mailboxes>
+   
+   <Grindarea>
+    <Factions>14 16 23269 23305 23324 23501 23290 23169 23326 23286 23264 23285 23267</Factions> <!-- [Too lazy to write] -->
+    <TargetMinLevel>64</TargetMinLevel> 
+    <TargetMaxLevel>86</TargetMaxLevel>
+	<RandomizeHotspots>True</RandomizeHotspots>
+	<MaximumHotspotTime>90</MaximumHotspotTime>
+    <Hotspots>
+		<Hotspot X="-5083.231" Y="477.0337" Z="-8.139504" />
+		<Hotspot X="-5124.68" Y="465.0166" Z="-12.43991" />
+		<Hotspot X="-5141.784" Y="420.9936" Z="-10.26053" />
+		<Hotspot X="-5109.049" Y="389.8465" Z="-12.22159" />
+		<Hotspot X="-5014.045" Y="546.9882" Z="-4.400818" />
+		
+		<Hotspot X="-4995.981" Y="668.4466" Z="23.59554" /><!--Upper level flayers -->
+		
+		<Hotspot X="-4979.172" Y="269.8749" Z="-6.398375" />
+		<Hotspot X="-5063.818" Y="164.048" Z="-10.76275" />
+		<Hotspot X="-5204.934" Y="150.7531" Z="-14.01475" />
+		<Hotspot X="-5228.55" Y="220.5668" Z="-11.97994" />
+    </Hotspots>
+   </Grindarea>
+	 <Blackspots>
+		<Blackspot X="-5031.881" Y="373.0786" Z="1.829525" Radius="5.460198" />
+		<Blackspot X="-5037.09" Y="425.9052" Z="4.874842" Radius="3.223265" />
+		<Blackspot X="-5082.043" Y="394.1984" Z="-13.58719" Radius="5.788316" />
+		<Blackspot X="-5249.281" Y="634.1429" Z="53.99003" Radius="22.86769" />
+	 </Blackspots>
+	 <AvoidMobs>
+		<Mob Name="Dragonmaw Ascendant" Entry="22253"  />	<!-- Elite 110k -->
+	 </AvoidMobs>
+  </SubProfile>
+	
+</HBProfile>
+	
+  
