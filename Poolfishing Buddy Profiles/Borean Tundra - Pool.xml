@@ -1,0 +1,49 @@
+<HBProfile>
+	<Name>Borean Tundra Pool</Name>
+	<MinDurability>0.4</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<MailWhite>False</MailWhite>
+	<MailGreen>False</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<ProtectedItems>
+		<Item name="Fishing Pole" entry="6256" />
+	</ProtectedItems>
+	<SubProfile>
+		<Name>Deepholm - Albino Cavefish</Name>
+		<MinLevel>1</MinLevel>
+		<MaxLevel>87</MaxLevel>
+		<TargetMinLevel>87</TargetMinLevel>
+		<Factions> 16 </Factions>
+
+		<Hotspots>
+<Hotspot X="3036.562" Y="5546.871" Z="60.85814" />
+<Hotspot X="3128.381" Y="5591.635" Z="59.77013" />
+<Hotspot X="3051.417" Y="5636.875" Z="58.09939" />
+<Hotspot X="3244.727" Y="5761.41" Z="59.96449" />
+<Hotspot X="3216.273" Y="5671.104" Z="69.80634" />
+<Hotspot X="3278.229" Y="5525.773" Z="57.6924" />
+
+
+		</Hotspots>
+
+		<Vendors>
+
+		</Vendors>
+
+		<Blackspots>
+
+		</Blackspots>
+
+		<AvoidMobs>
+
+		</AvoidMobs>
+
+		<Mailboxes>
+
+		</Mailboxes>
+	</SubProfile>
+</HBProfile>
