@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HBProfile>
+  
+  <Name>Tol Barad Dalies</Name>
+  <MinLevel>1</MinLevel>
+  <MaxLevel>90</MaxLevel>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <MailGrey>False</MailGrey>
+  <MailWhite>False</MailWhite>
+  <MailGreen>True</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <SellGrey>True</SellGrey>
+  <SellWhite>True</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+  <TargetElites>False</TargetElites>
+
+  <!---Quest overides -->
+<Quest Name="Even Thieves Get Hungry" Id="26235">
+        <Objective Type="CollectItem" ItemId="57879" CollectCount="3">
+            <CollectFrom>
+                <Mob Name="Orgrimmar Thieve" Id="42594" />
+            </CollectFrom>
+            <Hotspots>
+                <Hotspot X="1740.122" Y="-4524.814" Z="30.05098" />
+		<Hotspot X="1943.652" Y="-4403.889" Z="23.99014" />
+            </Hotspots>
+        </Objective>
+    </Quest>
+<Quest Name="Everything Is Better with Bacon" Id="26220">
+        <Objective Type="CollectItem" ItemId="57758" CollectCount="6">
+            <CollectFrom>
+                <Mob Name="Mature Swine" Id="42504" />
+		<Mob Name="Wild Mature Swine" Id="42859" />
+            </CollectFrom>
+            <Hotspots>
+                <Hotspot X="1277.713" Y="-4235.686" Z="26.28841" />
+            </Hotspots>
+        </Objective>
+    </Quest>
+  <!-- End of Quest Overrides -->
+ 
+  <QuestOrder>
+	<If Condition="HasQuest(26227)">
+	<Objective QuestName="Careful, This Fruit Bites Back" QuestId="26227" Type="CollectItem" ItemId="57766" CollectCount="8" />
+	<TurnIn QuestName="Careful, This Fruit Bites Back" QuestId="26227" TurnInName="" TurnInId="42506" />
+  	</If>
+
+	<If Condition="HasQuest(26226)">
+	<Objective QuestName="Crawfish Creole" QuestId="26226" Type="CollectItem" ItemId="57877" CollectCount="6" />
+	<TurnIn QuestName="Crawfish Creole" QuestId="26226" TurnInName="" TurnInId="42506" />
+  	</If>
+	
+	<If Condition="HasQuest(26233)">
+	<Objective QuestName="Stealing From Our Own" QuestId="26233" Type="CollectItem" ItemId="57766" CollectCount="8" />
+	<TurnIn QuestName="Stealing From Our Own" QuestId="26233" TurnInName="" TurnInId="42506" />
+  	</If>
+
+	<If Condition="HasQuest(26235)">
+	<Objective QuestName="Even Thieves Get Hungry" QuestId="26235" Type="CollectItem" ItemId="57879" CollectCount="3" />
+	<TurnIn QuestName="Careful, This Fruit Bites Back" QuestId="26235" TurnInName="" TurnInId="42506" />
+  	</If>
+
+	<If Condition="HasQuest(26220)">
+	<Objective QuestName="Everything Is Better with Bacon" QuestId="26220" Type="CollectItem" ItemId="57758" CollectCount="6" />
+	<TurnIn QuestName="Everything Is Better with Bacon" QuestId="26220" TurnInName="" TurnInId="42506" />
+  	</If>
+
+
+  </QuestOrder> 
+  
+</HBProfile>

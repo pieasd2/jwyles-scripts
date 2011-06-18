@@ -1,0 +1,62 @@
+<HBProfile>
+	<Name>T</Name>
+	<MinDurability>0.2</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<MailWhite>False</MailWhite>
+	<MailGreen>False</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>
+	<ProtectedItems>
+		<Item name="Fishing Pole" entry="6256" />
+		<Item name="Mastercraft Kalu'ak Fishing Pole" entry="44050" />
+		<Item name="Arcanite Fishing Pole" entry="19970" />
+		<Item name="Bone Fishing Pole" entry="45991" />
+		<Item name="Jeweled Fishing Pole" entry="45992" />
+		<Item name="Nat's Lucky Fishing Pole" entry="45858" />
+		<Item name="Seth's Graphite Fishing Pole" entry="25978" />
+		<Item name="Big Iron Fishing Pole" entry="6367" />
+		<Item name="Blump Family Fishing Pole" entry="12225" />
+		<Item name="Darkwood Fishing Pole" entry="6366" />
+		<Item name="Jonathan's Fishing Pole" entry="52678" />
+		<Item name="Strong Fishing Pole" entry="6365" />
+		<Item name="Staats' Fishing Pole" entry="46337" />
+	</ProtectedItems>
+	<SubProfile>
+		<Name>CrystalsongForest Flying Mount</Name>
+		<MinLevel>1</MinLevel>
+		<MaxLevel>87</MaxLevel>
+		<TargetMinLevel>87</TargetMinLevel>
+		<Factions>7 </Factions>
+		<Hotspots>
+
+<Hotspot X="1713.564" Y="-741.2344" Z="288.1131" />
+<Hotspot X="1637.379" Y="-810.0897" Z="286.7586" />
+<Hotspot X="1520.571" Y="-859.7173" Z="285.4618" />
+<Hotspot X="1426.56" Y="-873.1816" Z="285.3506" />
+<Hotspot X="1395.826" Y="-791.4559" Z="291.5202" />
+<Hotspot X="1358.528" Y="-631.7133" Z="284.6758" />
+<Hotspot X="968.1783" Y="-862.1789" Z="288.6263" />
+<Hotspot X="1025.184" Y="-925.555" Z="282.8814" />
+<Hotspot X="1121.921" Y="-928.8297" Z="285.7814" />
+<Hotspot X="1231.478" Y="-938.0075" Z="285.7366" />
+<Hotspot X="1347.6" Y="-906.6601" Z="288.7733" />
+<Hotspot X="1440.535" Y="-909.6012" Z="285.9389" />
+
+
+		</Hotspots>
+		<Vendors>
+
+		</Vendors>
+		<Blackspots>
+			<Blackspot X="-4069.63" Y="-5991.71" Z="0" Radius="1" />
+		</Blackspots>
+		<AvoidMobs>
+
+		</AvoidMobs>
+		<Mailboxes>
+		</Mailboxes>
+	</SubProfile>
+</HBProfile>
