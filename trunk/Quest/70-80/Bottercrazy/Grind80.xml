@@ -5,13 +5,13 @@
   <MinDurability>0.3</MinDurability>
   <MinFreeBagSlots>2</MinFreeBagSlots>
   <SellGrey>True</SellGrey>
-  <SellWhite>True</SellWhite>
-  <SellGreen>True</SellGreen>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
   <SellBlue>False</SellBlue>
-  <MailWhite>False</MailWhite>
-  <MailGreen>False</MailGreen>
-  <MailBlue>False</MailBlue>
-  <MailPurple>False</MailPurple>
+  <MailWhite>True</MailWhite>
+  <MailGreen>True</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
   
 
   	<AvoidMobs>
