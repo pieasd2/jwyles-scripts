@@ -1,0 +1,928 @@
+[10:38:51 AM:256] Logging in...
+[10:38:51 AM:885] Buddy Sessions: 0/0
+-----
+Shared Sessions: 3/9
+[10:38:52 AM:969] Attached to WoW with ID 560
+[10:38:53 AM:030] Honorbuddy v2.0.0.4982 started!
+[10:38:53 AM:030] Using WoW with process ID 560
+[10:38:53 AM:030] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[10:38:53 AM:030] Executable Path: C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Honorbuddy.exe
+[10:38:53 AM:035] Character is a level 85 Tauren Druid
+[10:38:53 AM:036] Current zone is Dalaran
+[10:38:53 AM:038] New bot added!: ArchaeologyBuddy
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]:Currently supported tanking dungeons :
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]:(This list will update itself automatically)
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]:
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Deadmines
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 15 - 21) Ragefire Chasm
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 16 - 26) Shadowfang Keep
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 20 - 30) The Stockade
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 26 - 36) Scarlet Monastery - Graveyard
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 29 - 39) Scarlet Monastery - Library
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 32 - 42) Scarlet Monastery - Armory
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 35 - 45) Scarlet Monastery - Cathedral
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 38 - 48) Scholomance
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 42 - 52) Stratholme - Main Gate
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 46 - 56) Stratholme - Service Entrance
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 57 - 67) Hellfire Ramparts
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 59 - 68) The Blood Furnace
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 62 - 71) Mana Tombs
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]: (Level 65 - 73) Sethekk Halls
+[10:38:53 AM:173] [Instancebuddy v3.0.1.315]:----------------------------------------------------------------------
+[10:38:53 AM:622] New bot added!: Instancebuddy
+[10:38:53 AM:637] New bot added!: Gatherbuddy2
+[10:38:53 AM:638] New bot added!: Grind Bot
+[10:38:53 AM:638] New bot added!: Questing
+[10:38:53 AM:640] New bot added!: PvP
+[10:38:53 AM:640] New bot added!: BG Bot [Beta]
+[10:38:53 AM:642] New bot added!: Mixed Mode
+[10:38:53 AM:643] New bot added!: PartyBot
+[10:38:54 AM:207] New bot added!: Combat/Heal Bot [1.0.0]
+[10:38:54 AM:207] New bot added!: MrFishIt [1.0.5]
+[10:38:55 AM:129] MeshesFolderPath: C:\Games\WOW\Mesh
+[10:38:55 AM:129] KillBetweenHotspots: True
+[10:38:55 AM:129] AdvancedSettingsMode: True
+[10:38:55 AM:129] LogoutForInactivity: False
+[10:38:55 AM:129] LogoutInactivityTimer: 10
+[10:38:55 AM:129] LogoutInactivityUseForceQuit: False
+[10:38:55 AM:129] ProfileDebuggingMode: False
+[10:38:55 AM:129] FoodAmount: 0
+[10:38:55 AM:129] DrinkAmount: 0
+[10:38:55 AM:129] FormLocationX: 20
+[10:38:55 AM:129] FormLocationY: 20
+[10:38:55 AM:129] FormWidth: 396
+[10:38:55 AM:129] FormHeight: 302
+[10:38:55 AM:129] SelectedBotIndex: 0
+[10:38:55 AM:129] UseFlightPaths: False
+[10:38:55 AM:129] FindMountAutomatically: True
+[10:38:55 AM:129] UseRandomMount: True
+[10:38:55 AM:129] FoodName: 58261
+[10:38:55 AM:129] DrinkName: 58257
+[10:38:55 AM:129] MountName has no value yet!
+[10:38:55 AM:129] LootMobs: True
+[10:38:55 AM:129] SkinMobs: False
+[10:38:55 AM:129] NinjaSkin: False
+[10:38:55 AM:129] LootChests: True
+[10:38:55 AM:129] HarvestMinerals: False
+[10:38:55 AM:129] HarvestHerbs: False
+[10:38:55 AM:129] UseMount: True
+[10:38:55 AM:129] PullDistance: 35
+[10:38:55 AM:129] LootRadius: 45
+[10:38:55 AM:129] FindVendorsAutomatically: False
+[10:38:55 AM:129] TrainNewSkills: False
+[10:38:55 AM:129] LearnFlightPaths: True
+[10:38:55 AM:129] LastUsedPath has no value yet!
+[10:38:55 AM:129] MountDistance: 75
+[10:38:55 AM:129] RessAtSpiritHealers: False
+[10:38:55 AM:129] GroundMountFarmingMode: False
+[10:38:55 AM:129] FoodAmount: 0
+[10:38:55 AM:129] DrinkAmount: 0
+[10:38:55 AM:129] FormLocationX: 20
+[10:38:55 AM:129] FormLocationY: 20
+[10:38:55 AM:129] SelectedBotIndex: 0
+[10:38:55 AM:129] UseFlightPaths: False
+[10:38:55 AM:129] FindMountAutomatically: True
+[10:38:55 AM:129] UseRandomMount: True
+[10:38:55 AM:129] FoodName: 58261
+[10:38:55 AM:129] DrinkName: 58257
+[10:38:55 AM:129] MountName has no value yet!
+[10:38:55 AM:129] LootMobs: True
+[10:38:55 AM:129] SkinMobs: False
+[10:38:55 AM:129] NinjaSkin: False
+[10:38:55 AM:129] LootChests: True
+[10:38:55 AM:129] HarvestMinerals: False
+[10:38:55 AM:129] HarvestHerbs: False
+[10:38:55 AM:129] UseMount: True
+[10:38:55 AM:129] PullDistance: 35
+[10:38:55 AM:129] LootRadius: 45
+[10:38:55 AM:129] FindVendorsAutomatically: False
+[10:38:55 AM:129] TrainNewSkills: False
+[10:38:55 AM:129] LearnFlightPaths: True
+[10:38:55 AM:129] LastUsedPath has no value yet!
+[10:38:55 AM:130] MountDistance: 75
+[10:38:55 AM:130] RessAtSpiritHealers: False
+[10:38:55 AM:130] Please wait a few seconds while Honorbuddy initializes.
+[10:38:55 AM:131] Activity: Initializing.
+[10:38:55 AM:132] Activity: Loading memory management & tables
+[10:38:55 AM:145] Activity: Loading Spells
+[10:38:55 AM:184] Activity: Initializing Spell Manager
+[10:38:55 AM:216] Activity: Initializing Plugins
+[10:38:55 AM:217] 
+[10:38:55 AM:902] [WeigtSet] Selected weight set: Druid-Balance
+[10:38:57 AM:513] Activity: Initializing Navigator
+[10:38:57 AM:559] Activity: Initializing Blackspot Manager
+[10:38:57 AM:562] Activity: Initializing Battlegrounds
+[10:38:57 AM:590] Activity: Initializing Flight Paths
+[10:38:57 AM:640] Activity: Initializing Routines
+[10:38:57 AM:643] Building spell book
+[10:38:57 AM:645] Adding: Stampeding Roar
+[10:38:57 AM:645] Adding: Swipe
+[10:38:57 AM:649] Spell book built
+[10:38:57 AM:650] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\FPSWare Druid
+[10:38:58 AM:212] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\ShamWOW
+[10:38:58 AM:576] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\Singular
+[10:38:59 AM:149] Disabling flight checks. - Paid Plugins or Lifetime User Detected
+[10:38:59 AM:150] Activity: Initialization complete
+[10:38:59 AM:150] Initialization complete.
+[10:38:59 AM:150] Activity: Honorbuddy Startup Complete
+[10:39:01 AM:663] Activity: Loading Profile...
+[10:39:16 AM:093] Downloaded tilemap Northrend
+[10:39:16 AM:409] Changed tilemap to Northrend, Tiled: True
+[10:39:16 AM:520] Changing current profile to [QO] Kalu'ak Dailies - Borean A [Kick]
+[10:39:19 AM:430] Chose Fpsware Druid(4.1.1) by Fpsware as your combat class!
+[10:39:36 AM:579] Starting the bot!
+[10:39:36 AM:625] Changing current profile to [QO] Kalu'ak Dailies - Borean A [Kick]
+[10:39:36 AM:974] Creating 'Rest' behavior
+[10:39:36 AM:976] Creating 'Pull' behavior
+[10:39:36 AM:988] Creating 'Heal' behavior
+[10:39:36 AM:989] Creating 'Combat' behavior
+[10:39:37 AM:146] Cleared POI
+[10:39:37 AM:146] Cleared POI - Reason Starting up
+[10:39:37 AM:147] Cleared POI
+[10:39:37 AM:404] You are a level 85 Balance Druid
+[10:39:37 AM:604] **********************************************************************
+[10:39:37 AM:604]  
+[10:39:37 AM:604]  Timer 'Pulse' does not exist
+[10:39:37 AM:604]  
+[10:39:37 AM:604] **********************************************************************
+[10:39:37 AM:630] Loading settings ...
+[10:39:37 AM:641] Settings have been updated with your changes
+[10:39:37 AM:642] -Populating ranged capable database...
+[10:39:37 AM:643] -8 entries added
+[10:39:37 AM:644] -Populating priority mobs database...
+[10:39:37 AM:644] -17 entries added
+[10:39:37 AM:645] -Populating healing spells database...
+[10:39:37 AM:645] -20 entries added
+[10:39:37 AM:645] -Populating important interrupt spells database...
+[10:39:37 AM:646] -35 entries added
+[10:39:37 AM:689] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\UserSettings.cs'
+[10:39:38 AM:070] Compiling expression 'Me.MapId == 0' @ line 59
+[10:39:38 AM:364] Compiling expression '((!HasQuest(11945)) && (!IsQuestCompleted(11945)))' @ line 72
+[10:39:38 AM:625] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\FlyTo.cs'
+[10:39:38 AM:916] Goal: Flying to <3137.975, 4884.562, 2.450774>
+[10:39:38 AM:919] [FlyTo-v184(debug) @line 73]: Flying to '<3137.975, 4884.562, 2.450774>': <3137.975, 4884.562, 2.450774>.
+[10:41:30 AM:976] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\ForcedDismount.cs'
+[10:41:31 AM:287] Goal: Dismounting
+[10:41:31 AM:297] [ForcedDismount-v184(debug) @line 74]: Cancelling Flight Form
+[10:41:31 AM:324] [ForcedDismount-v184(debug) @line 74]: Dismounting
+[10:41:31 AM:325] Stop and dismount...
+[10:41:32 AM:174] Spell_C::CastSpell(1126, 0, 0x38000000439D914, 0) [1]
+[10:41:32 AM:201] -Mark of the Wild on Me
+[10:41:32 AM:363] Picking up Preparing for the Worst : 11945
+[10:41:32 AM:363] Goal: Picking up Preparing for the Worst
+[10:41:32 AM:367] Changed POI to:Type: QuestPickUp
+[10:41:32 AM:658] InteractDebug:746880096
+[10:41:32 AM:690] Interact Done:746880096
+[10:41:36 AM:735] Cleared POI - Reason Quest Completed
+[10:41:36 AM:735] Cleared POI
+[10:41:37 AM:028] Compiling expression '((HasQuest(11945)) && (!IsQuestCompleted(11945)))' @ line 77
+[10:41:37 AM:574] Goal: Flying to <2876.18, 4858.867, 0.3971166>
+[10:41:37 AM:574] [FlyTo-v184(debug) @line 78]: Flying to '<2876.18, 4858.867, 0.3971166>': <2876.18, 4858.867, 0.3971166>.
+[10:41:38 AM:138] Spell_C::CastSpell(40120, 0, 0x0, 0) [2]
+[10:41:48 AM:979] Goal: Dismounting
+[10:41:49 AM:005] [ForcedDismount-v184(debug) @line 79]: Cancelling Flight Form
+[10:41:49 AM:045] [ForcedDismount-v184(debug) @line 79]: Dismounting
+[10:41:49 AM:045] Stop and dismount...
+[10:41:50 AM:353] Goal: Goal: Collect Kaskala Supplies x 8
+[10:41:50 AM:377] Activity: Moving to hotspot
+[10:41:50 AM:391] Activity: Loading Tile/s
+[10:41:50 AM:391] Loading Northrend_22_26
+[10:41:51 AM:392] Changed POI to:Type: Harvest
+[10:41:51 AM:575] Moving to Type: Harvest
+[10:41:58 AM:558] InteractDebug:712735112
+[10:41:58 AM:581] Interact Done:712735112
+[10:42:00 AM:395] Looting Kaskala Supplies Guid:0xF112DF04000956A0
+[10:42:00 AM:491] Cleared POI - Reason Waiting for loot flag
+[10:42:00 AM:491] Cleared POI
+[10:42:01 AM:329] Changed POI to:Type: Harvest
+[10:42:01 AM:514] Moving to Type: Harvest
+[10:42:06 AM:608] InteractDebug:712723976
+[10:42:06 AM:616] Interact Done:712723976
+[10:42:08 AM:386] Looting Kaskala Supplies Guid:0xF112DF04000A409F
+[10:42:08 AM:487] Cleared POI - Reason Waiting for loot flag
+[10:42:08 AM:487] Cleared POI
+[10:42:09 AM:227] Changed POI to:Type: Harvest
+[10:42:09 AM:389] Cleared POI - Reason Already looted
+[10:42:09 AM:389] Cleared POI
+[10:42:09 AM:579] Changed POI to:Type: Harvest
+[10:42:09 AM:753] Moving to Type: Harvest
+[10:42:13 AM:514] InteractDebug:712744856
+[10:42:13 AM:545] Interact Done:712744856
+[10:42:15 AM:265] Looting Kaskala Supplies Guid:0xF112DF04000A423F
+[10:42:15 AM:366] Cleared POI - Reason Waiting for loot flag
+[10:42:15 AM:366] Cleared POI
+[10:42:15 AM:941] New combat target Kvaldir Raider, resetting combat timer.
+[10:42:16 AM:062] Spell_C::CastSpell(24858, 0, 0xF13064A0001371A6, 0) [3]
+[10:42:16 AM:099] -Moonkin Form
+[10:42:16 AM:784] Activity: Combat
+[10:42:17 AM:962] Spell_C::CastSpell(2912, 0, 0xF13064A0001371A6, 0) [4]
+[10:42:17 AM:998] -Starfire
+[10:42:21 AM:382] Spell_C::CastSpell(2912, 0, 0xF13064A0001371A6, 0) [5]
+[10:42:23 AM:747] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:23 AM:909] Moving to Type: Loot, Name: Kvaldir Raider
+[10:42:24 AM:599] InteractDebug:977397936
+[10:42:24 AM:634] Interact Done:977397936
+[10:42:25 AM:684] Looting Kvaldir Raider Guid:0xF13064A0001371A6
+[10:42:25 AM:783] Cleared POI - Reason Waiting for loot flag
+[10:42:25 AM:783] Cleared POI
+[10:42:26 AM:512] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:26 AM:657] Cleared POI - Reason Already looted
+[10:42:26 AM:657] Cleared POI
+[10:42:26 AM:823] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:26 AM:984] Cleared POI - Reason Already looted
+[10:42:26 AM:984] Cleared POI
+[10:42:27 AM:105] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:27 AM:269] Cleared POI - Reason Already looted
+[10:42:27 AM:269] Cleared POI
+[10:42:27 AM:640] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:27 AM:821] Cleared POI - Reason Already looted
+[10:42:27 AM:821] Cleared POI
+[10:42:27 AM:977] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:28 AM:112] Cleared POI - Reason Already looted
+[10:42:28 AM:112] Cleared POI
+[10:42:28 AM:273] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:28 AM:810] InteractDebug:977397936
+[10:42:28 AM:827] Interact Done:977397936
+[10:42:30 AM:208] Cleared POI - Reason Waiting for loot flag
+[10:42:30 AM:208] Cleared POI
+[10:42:30 AM:792] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:42:30 AM:932] Cleared POI - Reason Already looted
+[10:42:30 AM:932] Cleared POI
+[10:42:31 AM:073] Changed POI to:Type: Harvest
+[10:42:31 AM:215] Moving to Type: Harvest
+[10:42:35 AM:375] [STUCK] Got stuck at <2897.006, 4922.643, 7.003353> on map 571
+[10:42:35 AM:379] [STUCK][HITTEST] LD/LU: False
+[10:42:35 AM:379] [STUCK][HITTEST] Left: False
+[10:42:35 AM:379] [STUCK][HITTEST] RD/RU: False
+[10:42:35 AM:379] [STUCK][HITTEST] Right: False
+[10:42:35 AM:379] [STUCK][HITTEST] Behind: False
+[10:42:35 AM:379] [STUCK][HITTEST] Behind Left: False
+[10:42:35 AM:379] [STUCK][HITTEST] Behind Right: False
+[10:42:39 AM:072] [STUCK] Strafing worked!
+[10:42:49 AM:430] InteractDebug:271329224
+[10:42:49 AM:436] Interact Done:271329224
+[10:42:51 AM:216] Looting Kaskala Supplies Guid:0xF112DF04000A757C
+[10:42:51 AM:253] Cleared POI - Reason Waiting for loot flag
+[10:42:51 AM:253] Cleared POI
+[10:42:51 AM:785] Changed POI to:Type: Harvest
+[10:42:51 AM:926] Cleared POI - Reason Already looted
+[10:42:51 AM:926] Cleared POI
+[10:42:52 AM:119] Changed POI to:Type: Harvest
+[10:42:52 AM:251] Moving to Type: Harvest
+[10:43:01 AM:288] InteractDebug:712729544
+[10:43:01 AM:313] Interact Done:712729544
+[10:43:02 AM:816] Looting Kaskala Supplies Guid:0xF112DF04000672D2
+[10:43:02 AM:918] Cleared POI - Reason Waiting for loot flag
+[10:43:02 AM:918] Cleared POI
+[10:43:03 AM:674] Changed POI to:Type: Harvest
+[10:43:03 AM:892] Cleared POI - Reason Already looted
+[10:43:03 AM:892] Cleared POI
+[10:43:04 AM:065] Activity: Moving to hotspot
+[10:43:05 AM:382] Changed POI to:Type: Harvest
+[10:43:06 AM:389] Mounting: Swift Flight Form
+[10:43:13 AM:115] Moving to Type: Harvest
+[10:43:23 AM:985] InteractDebug:271316696
+[10:43:24 AM:011] Interact Done:271316696
+[10:43:25 AM:715] Looting Kaskala Supplies Guid:0xF112DF04000A7704
+[10:43:25 AM:809] Cleared POI - Reason Waiting for loot flag
+[10:43:25 AM:809] Cleared POI
+[10:43:34 AM:725] [STUCK] Got stuck at <2874.887, 4870.058, 4.859781> on map 571
+[10:43:34 AM:758] [STUCK][HITTEST] LD/LU: False
+[10:43:34 AM:758] [STUCK][HITTEST] Left: False
+[10:43:34 AM:758] [STUCK][HITTEST] RD/RU: False
+[10:43:34 AM:758] [STUCK][HITTEST] Right: False
+[10:43:34 AM:758] [STUCK][HITTEST] Behind: False
+[10:43:34 AM:758] [STUCK][HITTEST] Behind Left: False
+[10:43:34 AM:758] [STUCK][HITTEST] Behind Right: False
+[10:43:38 AM:525] [STUCK] Strafing worked!
+[10:43:43 AM:444] [STUCK] Got stuck at <2874.187, 4870.129, 4.85951> on map 571
+[10:43:43 AM:477] [STUCK][HITTEST] LD/LU: False
+[10:43:43 AM:477] [STUCK][HITTEST] Left: False
+[10:43:43 AM:477] [STUCK][HITTEST] RD/RU: False
+[10:43:43 AM:477] [STUCK][HITTEST] Right: False
+[10:43:43 AM:477] [STUCK][HITTEST] Behind: False
+[10:43:43 AM:477] [STUCK][HITTEST] Behind Left: False
+[10:43:43 AM:477] [STUCK][HITTEST] Behind Right: False
+[10:43:47 AM:204] [STUCK] Strafing worked!
+[10:43:51 AM:908] [STUCK] Got stuck at <2874.551, 4870.129, 4.859621> on map 571
+[10:43:51 AM:942] [STUCK][HITTEST] LD/LU: False
+[10:43:51 AM:942] [STUCK][HITTEST] Left: False
+[10:43:51 AM:942] [STUCK][HITTEST] RD/RU: False
+[10:43:51 AM:942] [STUCK][HITTEST] Right: False
+[10:43:51 AM:942] [STUCK][HITTEST] Behind: False
+[10:43:51 AM:942] [STUCK][HITTEST] Behind Left: False
+[10:43:51 AM:942] [STUCK][HITTEST] Behind Right: False
+[10:43:56 AM:034] [STUCK] Couldn't get unstuck.. Adding blackspot.
+[10:43:56 AM:038] [STUCK] Moving backwards for 3 seconds.
+[10:43:59 AM:074] [STUCK] Clearing current path to regenerate it around our stuck location.
+[10:44:03 AM:127] Mounting: Swift Flight Form
+[10:44:19 AM:740] Changed POI to:Type: Harvest
+[10:44:20 AM:131] Mounting: Swift Flight Form
+[10:44:26 AM:864] Moving to Type: Harvest
+[10:44:37 AM:649] InteractDebug:271334096
+[10:44:37 AM:673] Interact Done:271334096
+[10:44:39 AM:409] Looting Kaskala Supplies Guid:0xF112DF04000A752D
+[10:44:39 AM:442] Cleared POI - Reason Waiting for loot flag
+[10:44:39 AM:442] Cleared POI
+[10:44:40 AM:013] Changed POI to:Type: Harvest
+[10:44:40 AM:371] Cleared POI - Reason Already looted
+[10:44:40 AM:371] Cleared POI
+[10:44:40 AM:525] Activity: Loading Tile/s
+[10:44:40 AM:525] Loading Northrend_23_26
+[10:44:40 AM:611] Changed POI to:Type: Harvest
+[10:44:40 AM:753] Unloading tiles!
+[10:44:40 AM:756] Loading Northrend_22_26
+[10:44:40 AM:845] Loading Northrend_23_26
+[10:44:40 AM:932] Moving to Type: Harvest
+[10:44:54 AM:434] New combat target Kvaldir Raider, resetting combat timer.
+[10:44:54 AM:533] Spell_C::CastSpell(24858, 0, 0xF13064A000136A75, 0) [6]
+[10:44:54 AM:568] -Moonkin Form
+[10:44:55 AM:177] Activity: Combat
+[10:44:57 AM:203] Spell_C::CastSpell(2912, 0, 0xF13064A000136A75, 0) [7]
+[10:44:57 AM:232] -Starfire
+[10:45:02 AM:733] Moving to Type: Harvest
+[10:45:04 AM:548] InteractDebug:1253376256
+[10:45:04 AM:578] Interact Done:1253376256
+[10:45:06 AM:284] Looting Kaskala Supplies Guid:0xF112DF040009E72D
+[10:45:06 AM:386] Cleared POI - Reason Waiting for loot flag
+[10:45:06 AM:386] Cleared POI
+[10:45:07 AM:136] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:45:07 AM:290] Moving to Type: Loot, Name: Kvaldir Raider
+[10:45:09 AM:094] InteractDebug:977258736
+[10:45:09 AM:103] Interact Done:977258736
+[10:45:10 AM:197] Looting Kvaldir Raider Guid:0xF13064A000136A75
+[10:45:10 AM:234] Cleared POI - Reason Waiting for loot flag
+[10:45:10 AM:234] Cleared POI
+[10:45:10 AM:790] Changed POI to:Type: Loot, Name: Kvaldir Raider
+[10:45:10 AM:903] Cleared POI - Reason Already looted
+[10:45:10 AM:903] Cleared POI
+[10:45:11 AM:163] Compiling expression '((HasQuest(11945)) && (IsQuestCompleted(11945)))' @ line 82
+[10:45:11 AM:738] Goal: Flying to <3137.975, 4884.562, 2.450774>
+[10:45:11 AM:738] [FlyTo-v184(debug) @line 83]: Flying to '<3137.975, 4884.562, 2.450774>': <3137.975, 4884.562, 2.450774>.
+[10:45:12 AM:200] Spell_C::CastSpell(40120, 0, 0x0, 0) [8]
+[10:45:18 AM:022] Goal: Dismounting
+[10:45:18 AM:050] [ForcedDismount-v184(debug) @line 84]: Cancelling Flight Form
+[10:45:18 AM:053] [ForcedDismount-v184(debug) @line 84]: Dismounting
+[10:45:18 AM:053] Stop and dismount...
+[10:45:18 AM:477] MoveStop failed for Descend
+[10:45:18 AM:582] Flushing timed movement. Direction: Descend
+[10:45:19 AM:118] Goal: Turning in Preparing for the Worst
+[10:45:19 AM:121] Changed POI to:Type: QuestTurnIn
+[10:45:19 AM:277] Moving to Type: QuestTurnIn
+[10:45:20 AM:299] InteractDebug:1251030192
+[10:45:20 AM:331] Interact Done:1251030192
+[10:45:24 AM:292] Cleared POI - Reason Quest Completed #2
+[10:45:24 AM:292] Cleared POI
+[10:45:24 AM:768] Compiling expression '((!HasQuest(11960)) && (!IsQuestCompleted(11960)))' @ line 88
+[10:45:25 AM:054] Goal: Flying to <2798.11, 915.9924, 22.08739>
+[10:45:25 AM:054] [FlyTo-v184(debug) @line 89]: Flying to '<2798.11, 915.9924, 22.08739>': <2798.11, 915.9924, 22.08739>.
+[10:45:25 AM:561] Spell_C::CastSpell(40120, 0, 0x0, 0) [9]
+[10:47:34 AM:059] Activity: Loading Tile/s
+[10:47:34 AM:059] Loading Northrend_30_26
+[10:47:34 AM:158] Blacklisting Cid Flounderfix for 5 minutes because we can't navigate to it!
+[10:47:37 AM:649] Goal: Dismounting
+[10:47:37 AM:677] [ForcedDismount-v184(debug) @line 90]: Cancelling Flight Form
+[10:47:37 AM:715] [ForcedDismount-v184(debug) @line 90]: Dismounting
+[10:47:37 AM:715] Stop and dismount...
+[10:47:38 AM:721] Picking up Planning for the Future : 11960
+[10:47:38 AM:721] Goal: Picking up Planning for the Future
+[10:47:38 AM:721] Changed POI to:Type: QuestPickUp
+[10:47:38 AM:877] Moving to Type: QuestPickUp
+[10:47:39 AM:654] InteractDebug:977194936
+[10:47:39 AM:687] Interact Done:977194936
+[10:47:42 AM:184] Cleared POI - Reason Quest Completed
+[10:47:42 AM:184] Cleared POI
+[10:47:42 AM:517] Compiling expression '((HasQuest(11960)) && (!IsQuestCompleted(11960)))' @ line 93
+[10:47:43 AM:196] Goal: Flying to <3213.432, 1059.143, 126.9744>
+[10:47:43 AM:196] [FlyTo-v184(debug) @line 94]: Flying to '<3213.432, 1059.143, 126.9744>': <3213.432, 1059.143, 126.9744>.
+[10:47:43 AM:690] Spell_C::CastSpell(40120, 0, 0x0, 0) [10]
+[10:48:01 AM:518] Goal: Dismounting
+[10:48:01 AM:519] [ForcedDismount-v184(debug) @line 95]: Cancelling Flight Form
+[10:48:01 AM:565] [ForcedDismount-v184(debug) @line 95]: Dismounting
+[10:48:01 AM:565] Stop and dismount...
+[10:48:02 AM:920] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\InteractWith.cs'
+[10:48:03 AM:307] Goal: Interacting with Snowfall Glade Pup
+[10:48:03 AM:373] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:03 AM:375] Activity: Moving to interact with - Snowfall Glade Pup
+[10:48:03 AM:375] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:03 AM:376] Activity: Loading Tile/s
+[10:48:03 AM:376] Loading Northrend_30_25
+[10:48:03 AM:472] Loading Northrend_29_25
+[10:48:03 AM:919] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:03 AM:920] Activity: Moving to interact with - Snowfall Glade Pup
+[10:48:03 AM:921] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:08 AM:714] Activity: Setting Snowfall Glade Den Mother at 20 yards as your target
+[10:48:09 AM:235] Changed POI to:Type: Kill, Name: Snowfall Glade Den Mother
+[10:48:09 AM:579] Activity: Pulling
+[10:48:09 AM:614] New pull target Snowfall Glade Den Mother (71), resetting pull timer.
+[10:48:09 AM:707] Spell_C::CastSpell(24858, 0, 0xF1306657000D8B4F, 0) [11]
+[10:48:09 AM:738] -Moonkin Form
+[10:48:10 AM:160] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:10 AM:355] Activity: Pulling
+[10:48:10 AM:420] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:10 AM:705] Activity: Pulling
+[10:48:10 AM:766] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:10 AM:963] Activity: Pulling
+[10:48:11 AM:028] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:11 AM:215] Activity: Pulling
+[10:48:11 AM:410] Spell_C::CastSpell(339, 0, 0xF1306657000D8B4F, 0) [12]
+[10:48:11 AM:445] -Entangling Roots
+[10:48:13 AM:150] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:13 AM:375] Activity: Pulling
+[10:48:13 AM:475] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:13 AM:697] Activity: Pulling
+[10:48:14 AM:426] Spell_C::CastSpell(5176, 0, 0xF1306657000D8B4F, 0) [13]
+[10:48:14 AM:442] -Wrath
+[10:48:14 AM:808] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:14 AM:999] Activity: Pulling
+[10:48:16 AM:815] Spell_C::CastSpell(339, 0, 0xF1306657000D8B4F, 0) [14]
+[10:48:16 AM:842] -Entangling Roots
+[10:48:17 AM:337] New combat target Snowfall Glade Den Mother, resetting combat timer.
+[10:48:17 AM:600] Activity: Combat
+[10:48:19 AM:499] Spell_C::CastSpell(2912, 0, 0xF1306657000D8B4F, 0) [15]
+[10:48:19 AM:532] -Starfire
+[10:48:22 AM:476] Spell_C::CastSpell(2912, 0, 0xF1306657000D8B4F, 0) [16]
+[10:48:24 AM:299] Cleared POI - Reason POI is dead from Combat
+[10:48:24 AM:299] Cleared POI
+[10:48:24 AM:469] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:48:24 AM:630] Moving to Type: Loot, Name: Snowfall Glade Den Mother
+[10:48:26 AM:278] InteractDebug:270670472
+[10:48:26 AM:296] Interact Done:270670472
+[10:48:27 AM:276] Looting Snowfall Glade Den Mother Guid:0xF1306657000D8B4F
+[10:48:27 AM:347] Cleared POI - Reason Waiting for loot flag
+[10:48:27 AM:347] Cleared POI
+[10:48:28 AM:069] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:48:28 AM:222] Cleared POI - Reason Already looted
+[10:48:28 AM:222] Cleared POI
+[10:48:28 AM:421] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:28 AM:424] Activity: Interacting with - Snowfall Glade Pup
+[10:48:28 AM:424] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:28 AM:424] InteractDebug:270479072
+[10:48:28 AM:448] Interact Done:270479072
+[10:48:28 AM:449] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:31 AM:875] Activity: Moving to interact with - Snowfall Glade Pup
+[10:48:31 AM:875] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:32 AM:569] Activity: Interacting with - Snowfall Glade Pup
+[10:48:32 AM:569] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:32 AM:569] InteractDebug:270508072
+[10:48:32 AM:585] Interact Done:270508072
+[10:48:32 AM:586] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:35 AM:926] Activity: Moving to interact with - Snowfall Glade Pup
+[10:48:35 AM:927] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:36 AM:809] Activity: Interacting with - Snowfall Glade Pup
+[10:48:36 AM:809] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:36 AM:809] InteractDebug:270745872
+[10:48:36 AM:828] Interact Done:270745872
+[10:48:36 AM:828] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:40 AM:240] Activity: Moving to interact with - Snowfall Glade Pup
+[10:48:40 AM:240] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:40 AM:240] [STUCK] Got stuck at <3255.106, 1094.689, 136.3402> on map 571
+[10:48:40 AM:264] [STUCK][HITTEST] LD/LU: True
+[10:48:40 AM:264] [STUCK][HITTEST] Left: False
+[10:48:40 AM:264] [STUCK][HITTEST] RD/RU: False
+[10:48:40 AM:264] [STUCK][HITTEST] Right: False
+[10:48:40 AM:264] [STUCK][HITTEST] Behind: False
+[10:48:40 AM:264] [STUCK][HITTEST] Behind Left: False
+[10:48:40 AM:264] [STUCK][HITTEST] Behind Right: False
+[10:48:43 AM:956] [STUCK] Strafing worked!
+[10:48:44 AM:032] Flushing timed movement. Direction: AllAllowed
+[10:48:44 AM:714] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:44 AM:852] Flushing timed movement. Direction: AllAllowed
+[10:48:45 AM:006] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:48:45 AM:274] Activity: Setting Snowfall Glade Den Mother at 23 yards as your target
+[10:48:45 AM:769] Changed POI to:Type: Kill, Name: Snowfall Glade Den Mother
+[10:48:45 AM:996] Activity: Pulling
+[10:48:46 AM:027] New pull target Snowfall Glade Den Mother (72), resetting pull timer.
+[10:48:46 AM:254] Spell_C::CastSpell(339, 0, 0xF1306657000D8FFB, 0) [17]
+[10:48:46 AM:286] -Entangling Roots
+[10:48:48 AM:636] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:48 AM:865] Activity: Pulling
+[10:48:48 AM:967] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:49 AM:193] Activity: Pulling
+[10:48:49 AM:287] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:49 AM:711] Activity: Pulling
+[10:48:49 AM:809] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:50 AM:035] Activity: Pulling
+[10:48:50 AM:732] Spell_C::CastSpell(5176, 0, 0xF1306657000D8FFB, 0) [18]
+[10:48:50 AM:750] -Wrath
+[10:48:51 AM:111] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:51 AM:302] Activity: Pulling
+[10:48:52 AM:734] Activity: Pulling Snowfall Glade Den Mother now.
+[10:48:52 AM:961] Activity: Pulling
+[10:48:53 AM:124] Spell_C::CastSpell(339, 0, 0xF1306657000D8FFB, 0) [19]
+[10:48:53 AM:153] -Entangling Roots
+[10:48:53 AM:648] New combat target Snowfall Glade Den Mother, resetting combat timer.
+[10:48:53 AM:903] Activity: Combat
+[10:48:55 AM:502] Cleared POI - Reason POI is dead from Combat
+[10:48:55 AM:502] Cleared POI
+[10:48:55 AM:643] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:48:55 AM:772] Moving to Type: Loot, Name: Snowfall Glade Den Mother
+[10:48:58 AM:376] InteractDebug:270774872
+[10:48:58 AM:383] Interact Done:270774872
+[10:48:59 AM:503] Looting Snowfall Glade Den Mother Guid:0xF1306657000D8FFB
+[10:48:59 AM:596] Cleared POI - Reason Waiting for loot flag
+[10:48:59 AM:596] Cleared POI
+[10:49:00 AM:305] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:49:00 AM:470] Cleared POI - Reason Already looted
+[10:49:00 AM:470] Cleared POI
+[10:49:00 AM:689] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:00 AM:691] Activity: Interacting with - Snowfall Glade Pup
+[10:49:00 AM:691] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:00 AM:691] InteractDebug:270519672
+[10:49:00 AM:742] Interact Done:270519672
+[10:49:00 AM:742] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:04 AM:167] Activity: Moving to interact with - Snowfall Glade Pup
+[10:49:04 AM:167] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:05 AM:098] Activity: Interacting with - Snowfall Glade Pup
+[10:49:05 AM:098] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:05 AM:098] InteractDebug:270444272
+[10:49:05 AM:122] Interact Done:270444272
+[10:49:05 AM:122] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:08 AM:557] Activity: Moving to interact with - Snowfall Glade Pup
+[10:49:08 AM:557] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:09 AM:048] Activity: Setting Snowfall Glade Den Mother at 17 yards as your target
+[10:49:09 AM:381] Changed POI to:Type: Kill, Name: Snowfall Glade Den Mother
+[10:49:09 AM:606] Activity: Pulling
+[10:49:09 AM:645] New pull target Snowfall Glade Den Mother (71), resetting pull timer.
+[10:49:09 AM:867] Spell_C::CastSpell(339, 0, 0xF13066570013CCE9, 0) [20]
+[10:49:09 AM:902] -Entangling Roots
+[10:49:12 AM:055] Activity: Pulling Snowfall Glade Den Mother now.
+[10:49:12 AM:279] Activity: Pulling
+[10:49:12 AM:378] Activity: Pulling Snowfall Glade Den Mother now.
+[10:49:12 AM:607] Activity: Pulling
+[10:49:12 AM:705] Activity: Pulling Snowfall Glade Den Mother now.
+[10:49:13 AM:129] Activity: Pulling
+[10:49:13 AM:225] Activity: Pulling Snowfall Glade Den Mother now.
+[10:49:13 AM:423] Activity: Pulling
+[10:49:14 AM:115] Spell_C::CastSpell(5176, 0, 0xF13066570013CCE9, 0) [21]
+[10:49:14 AM:138] -Wrath
+[10:49:14 AM:492] Activity: Pulling Snowfall Glade Den Mother now.
+[10:49:14 AM:685] Activity: Pulling
+[10:49:16 AM:469] Spell_C::CastSpell(339, 0, 0xF13066570013CCE9, 0) [22]
+[10:49:16 AM:499] -Entangling Roots
+[10:49:17 AM:021] New combat target Snowfall Glade Den Mother, resetting combat timer.
+[10:49:17 AM:574] Activity: Combat
+[10:49:19 AM:370] Cleared POI - Reason POI is dead from Combat
+[10:49:19 AM:370] Cleared POI
+[10:49:19 AM:532] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:49:19 AM:666] Moving to Type: Loot, Name: Snowfall Glade Den Mother
+[10:49:21 AM:873] InteractDebug:270682072
+[10:49:21 AM:892] Interact Done:270682072
+[10:49:22 AM:828] Looting Snowfall Glade Den Mother Guid:0xF13066570013CCE9
+[10:49:23 AM:952] Cleared POI - Reason Waiting for loot flag
+[10:49:23 AM:952] Cleared POI
+[10:49:24 AM:733] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:24 AM:734] Activity: Interacting with - Snowfall Glade Pup
+[10:49:24 AM:735] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:24 AM:735] InteractDebug:977380536
+[10:49:24 AM:769] Interact Done:977380536
+[10:49:24 AM:770] [InteractWith-v184(debug) @line 97]: Snowfall Glade Pup
+[10:49:28 AM:454] Goal: Interacting with Snowfall Glade Pup
+[10:49:28 AM:520] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:49:28 AM:521] Activity: Moving to interact with - Snowfall Glade Pup
+[10:49:28 AM:522] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:49:30 AM:038] Activity: Setting Snowfall Glade Wolvar at 35 yards as your target
+[10:49:30 AM:440] Changed POI to:Type: Kill, Name: Snowfall Glade Wolvar
+[10:49:30 AM:632] Activity: Pulling
+[10:49:30 AM:663] New pull target Snowfall Glade Wolvar (72), resetting pull timer.
+[10:49:30 AM:734] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:30 AM:974] Activity: Pulling
+[10:49:31 AM:041] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:31 AM:254] Activity: Pulling
+[10:49:31 AM:485] Spell_C::CastSpell(339, 0, 0xF1306656000AA150, 0) [23]
+[10:49:31 AM:520] -Entangling Roots
+[10:49:33 AM:682] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:34 AM:082] Activity: Pulling
+[10:49:34 AM:177] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:34 AM:410] Activity: Pulling
+[10:49:34 AM:504] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:34 AM:870] Activity: Pulling
+[10:49:34 AM:966] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:35 AM:196] Activity: Pulling
+[10:49:35 AM:392] Spell_C::CastSpell(339, 0, 0xF1306656000AA150, 0) [24]
+[10:49:37 AM:157] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:37 AM:386] Activity: Pulling
+[10:49:37 AM:481] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:37 AM:710] Activity: Pulling
+[10:49:37 AM:907] Spell_C::CastSpell(339, 0, 0xF1306656000AA150, 0) [25]
+[10:49:39 AM:951] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:40 AM:177] Activity: Pulling
+[10:49:40 AM:275] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:40 AM:500] Activity: Pulling
+[10:49:40 AM:695] Spell_C::CastSpell(339, 0, 0xF1306656000AA150, 0) [26]
+[10:49:42 AM:945] Unloading tiles!
+[10:49:42 AM:948] Activity: Loading Tile/s
+[10:49:42 AM:948] Loading Northrend_30_25
+[10:49:43 AM:036] Loading Northrend_29_25
+[10:49:43 AM:203] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:43 AM:431] Activity: Pulling
+[10:49:43 AM:528] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:43 AM:974] Activity: Pulling
+[10:49:44 AM:076] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:44 AM:302] Activity: Pulling
+[10:49:44 AM:399] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:44 AM:627] Activity: Pulling
+[10:49:44 AM:815] Spell_C::CastSpell(339, 0, 0xF1306656000AA150, 0) [27]
+[10:49:47 AM:176] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:47 AM:403] Activity: Pulling
+[10:49:47 AM:501] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:47 AM:693] Activity: Pulling
+[10:49:47 AM:789] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:48 AM:204] Activity: Pulling
+[10:49:48 AM:305] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:48 AM:528] Activity: Pulling
+[10:49:48 AM:626] Activity: Pulling Snowfall Glade Wolvar now.
+[10:49:48 AM:885] Activity: Pulling
+[10:49:49 AM:076] Spell_C::CastSpell(339, 0, 0xF1306656000AA150, 0) [28]
+[10:49:50 AM:785] Bad pull target blacklisting and finding another target.
+[10:49:51 AM:006] Cleared POI - Reason No targets in target list - POI.Kill Sanity Checks
+[10:49:51 AM:006] Cleared POI
+[10:49:51 AM:588] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:49:51 AM:589] Activity: Moving to interact with - Snowfall Glade Pup
+[10:49:51 AM:589] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:49:56 AM:030] [STUCK] Got stuck at <3280.563, 1074.364, 139.2318> on map 571
+[10:49:56 AM:065] [STUCK][HITTEST] LD/LU: False
+[10:49:56 AM:065] [STUCK][HITTEST] Left: False
+[10:49:56 AM:065] [STUCK][HITTEST] RD/RU: True
+[10:49:56 AM:065] [STUCK][HITTEST] Right: False
+[10:49:56 AM:065] [STUCK][HITTEST] Behind: False
+[10:49:56 AM:065] [STUCK][HITTEST] Behind Left: False
+[10:49:56 AM:065] [STUCK][HITTEST] Behind Right: False
+[10:49:59 AM:741] [STUCK] Strafing worked!
+[10:49:59 AM:833] Flushing timed movement. Direction: AllAllowed
+[10:50:00 AM:169] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:00 AM:309] Flushing timed movement. Direction: AllAllowed
+[10:50:00 AM:490] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:01 AM:579] Activity: Interacting with - Snowfall Glade Pup
+[10:50:01 AM:580] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:01 AM:580] InteractDebug:977479136
+[10:50:01 AM:601] Interact Done:977479136
+[10:50:01 AM:602] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:05 AM:001] Activity: Moving to interact with - Snowfall Glade Pup
+[10:50:05 AM:001] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:13 AM:078] New combat target Snowfall Glade Wolvar, resetting combat timer.
+[10:50:14 AM:170] Spell_C::CastSpell(2912, 0, 0xF1306656000AA150, 0) [29]
+[10:50:14 AM:204] -Starfire
+[10:50:14 AM:586] Activity: Combat
+[10:50:17 AM:076] Spell_C::CastSpell(2912, 0, 0xF1306656000AA150, 0) [30]
+[10:50:17 AM:644] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:17 AM:645] Activity: Moving to interact with - Snowfall Glade Pup
+[10:50:17 AM:645] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:19 AM:661] [STUCK] Got stuck at <3262.902, 1027.219, 134.3505> on map 571
+[10:50:19 AM:684] [STUCK][HITTEST] LD/LU: False
+[10:50:19 AM:684] [STUCK][HITTEST] Left: False
+[10:50:19 AM:684] [STUCK][HITTEST] RD/RU: False
+[10:50:19 AM:684] [STUCK][HITTEST] Right: False
+[10:50:19 AM:684] [STUCK][HITTEST] Behind: False
+[10:50:19 AM:684] [STUCK][HITTEST] Behind Left: False
+[10:50:19 AM:684] [STUCK][HITTEST] Behind Right: False
+[10:50:23 AM:418] [STUCK] Strafing worked!
+[10:50:23 AM:518] Flushing timed movement. Direction: AllAllowed
+[10:50:23 AM:914] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:24 AM:199] Activity: Setting Snowfall Glade Wolvar at 26 yards as your target
+[10:50:24 AM:756] Changed POI to:Type: Kill, Name: Snowfall Glade Wolvar
+[10:50:24 AM:981] Activity: Pulling
+[10:50:25 AM:021] New pull target Snowfall Glade Wolvar (72), resetting pull timer.
+[10:50:25 AM:251] Spell_C::CastSpell(339, 0, 0xF1306656000CFE7E, 0) [31]
+[10:50:25 AM:281] -Entangling Roots
+[10:50:27 AM:649] Activity: Pulling Snowfall Glade Wolvar now.
+[10:50:27 AM:874] Activity: Pulling
+[10:50:27 AM:972] Activity: Pulling Snowfall Glade Wolvar now.
+[10:50:28 AM:198] Activity: Pulling
+[10:50:28 AM:300] Activity: Pulling Snowfall Glade Wolvar now.
+[10:50:28 AM:718] Activity: Pulling
+[10:50:28 AM:815] Activity: Pulling Snowfall Glade Wolvar now.
+[10:50:29 AM:045] Activity: Pulling
+[10:50:29 AM:741] Spell_C::CastSpell(5176, 0, 0xF1306656000CFE7E, 0) [32]
+[10:50:29 AM:762] -Wrath
+[10:50:30 AM:118] Activity: Pulling Snowfall Glade Wolvar now.
+[10:50:30 AM:314] Activity: Pulling
+[10:50:32 AM:127] Spell_C::CastSpell(339, 0, 0xF1306656000CFE7E, 0) [33]
+[10:50:32 AM:155] -Entangling Roots
+[10:50:32 AM:640] New combat target Snowfall Glade Wolvar, resetting combat timer.
+[10:50:32 AM:895] Activity: Combat
+[10:50:34 AM:896] Spell_C::CastSpell(2912, 0, 0xF1306656000CFE7E, 0) [34]
+[10:50:34 AM:933] -Starfire
+[10:50:37 AM:896] Spell_C::CastSpell(5176, 0, 0xF1306656000CFE7E, 0) [35]
+[10:50:37 AM:926] -Wrath
+[10:50:39 AM:740] Cleared POI - Reason POI is dead from Combat
+[10:50:39 AM:740] Cleared POI
+[10:50:39 AM:929] Changed POI to:Type: Loot, Name: Snowfall Glade Wolvar
+[10:50:40 AM:089] Moving to Type: Loot, Name: Snowfall Glade Wolvar
+[10:50:43 AM:054] InteractDebug:270757472
+[10:50:43 AM:074] Interact Done:270757472
+[10:50:43 AM:763] Looting Snowfall Glade Wolvar Guid:0xF1306656000CFE7E
+[10:50:43 AM:861] Cleared POI - Reason Waiting for loot flag
+[10:50:43 AM:861] Cleared POI
+[10:50:44 AM:554] Changed POI to:Type: Loot, Name: Snowfall Glade Wolvar
+[10:50:44 AM:719] Cleared POI - Reason Already looted
+[10:50:44 AM:719] Cleared POI
+[10:50:44 AM:890] Changed POI to:Type: Loot, Name: Snowfall Glade Wolvar
+[10:50:45 AM:050] Cleared POI - Reason Already looted
+[10:50:45 AM:050] Cleared POI
+[10:50:45 AM:220] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:45 AM:221] Activity: Moving to interact with - Snowfall Glade Pup
+[10:50:45 AM:222] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:50:46 AM:864] Activity: Setting Snowfall Glade Den Mother at 22 yards as your target
+[10:50:47 AM:308] Changed POI to:Type: Kill, Name: Snowfall Glade Den Mother
+[10:50:47 AM:537] Activity: Pulling
+[10:50:47 AM:577] New pull target Snowfall Glade Den Mother (71), resetting pull timer.
+[10:50:47 AM:759] Spell_C::CastSpell(339, 0, 0xF1306657000AA3F3, 0) [36]
+[10:50:47 AM:789] -Entangling Roots
+[10:50:49 AM:677] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:49 AM:907] Activity: Pulling
+[10:50:49 AM:972] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:50 AM:200] Activity: Pulling
+[10:50:50 AM:396] Spell_C::CastSpell(339, 0, 0xF1306657000AA3F3, 0) [37]
+[10:50:52 AM:732] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:52 AM:959] Activity: Pulling
+[10:50:53 AM:058] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:53 AM:285] Activity: Pulling
+[10:50:53 AM:381] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:53 AM:708] Activity: Pulling
+[10:50:53 AM:807] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:54 AM:032] Activity: Pulling
+[10:50:54 AM:133] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:54 AM:358] Activity: Pulling
+[10:50:54 AM:486] Spell_C::CastSpell(339, 0, 0xF1306657000AA3F3, 0) [38]
+[10:50:56 AM:660] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:56 AM:879] Activity: Pulling
+[10:50:56 AM:979] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:57 AM:204] Activity: Pulling
+[10:50:57 AM:302] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:57 AM:733] Activity: Pulling
+[10:50:57 AM:823] Activity: Pulling Snowfall Glade Den Mother now.
+[10:50:58 AM:049] Activity: Pulling
+[10:50:58 AM:740] Spell_C::CastSpell(5176, 0, 0xF1306657000AA3F3, 0) [39]
+[10:50:58 AM:754] -Wrath
+[10:51:01 AM:358] Spell_C::CastSpell(5176, 0, 0xF1306657000AA3F3, 0) [40]
+[10:51:01 AM:500] New combat target Snowfall Glade Den Mother, resetting combat timer.
+[10:51:01 AM:726] Activity: Combat
+[10:51:02 AM:209] Cleared POI - Reason POI is dead from Combat
+[10:51:02 AM:209] Cleared POI
+[10:51:04 AM:308] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:51:04 AM:462] Moving to Type: Loot, Name: Snowfall Glade Den Mother
+[10:51:07 AM:332] InteractDebug:270554472
+[10:51:07 AM:355] Interact Done:270554472
+[10:51:08 AM:733] Looting Snowfall Glade Den Mother Guid:0xF1306657000AA3F3
+[10:51:08 AM:831] Cleared POI - Reason Waiting for loot flag
+[10:51:08 AM:831] Cleared POI
+[10:51:09 AM:362] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:51:09 AM:523] Cleared POI - Reason Already looted
+[10:51:09 AM:523] Cleared POI
+[10:51:10 AM:254] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:10 AM:256] Activity: Interacting with - Snowfall Glade Pup
+[10:51:10 AM:257] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:10 AM:257] InteractDebug:270728472
+[10:51:10 AM:284] Interact Done:270728472
+[10:51:10 AM:285] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:13 AM:669] InteractDebug:977264536
+[10:51:13 AM:696] Interact Done:977264536
+[10:51:13 AM:697] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:17 AM:087] InteractDebug:270618272
+[10:51:17 AM:115] Interact Done:270618272
+[10:51:17 AM:116] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:20 AM:560] Activity: Moving to interact with - Snowfall Glade Pup
+[10:51:20 AM:561] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:20 AM:751] Activity: Setting Snowfall Glade Wolvar at 28 yards as your target
+[10:51:21 AM:241] Changed POI to:Type: Kill, Name: Snowfall Glade Wolvar
+[10:51:21 AM:535] Activity: Pulling
+[10:51:21 AM:567] New pull target Snowfall Glade Wolvar (72), resetting pull timer.
+[10:51:21 AM:632] Activity: Pulling Snowfall Glade Wolvar now.
+[10:51:21 AM:830] Changed POI to:Type: Kill, Name: Snowfall Glade Den Mother
+[10:51:22 AM:084] Activity: Pulling
+[10:51:22 AM:727] New pull target Snowfall Glade Den Mother (72), resetting pull timer.
+[10:51:22 AM:817] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:23 AM:013] Activity: Pulling
+[10:51:23 AM:112] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:23 AM:338] Activity: Pulling
+[10:51:23 AM:434] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:23 AM:850] Activity: Pulling
+[10:51:23 AM:945] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:24 AM:137] Activity: Pulling
+[10:51:24 AM:237] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:24 AM:463] Activity: Pulling
+[10:51:24 AM:653] Spell_C::CastSpell(339, 0, 0xF1306657000D03C8, 0) [41]
+[10:51:24 AM:686] -Entangling Roots
+[10:51:27 AM:100] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:27 AM:325] Activity: Pulling
+[10:51:27 AM:425] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:27 AM:645] Activity: Pulling
+[10:51:27 AM:746] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:28 AM:163] Activity: Pulling
+[10:51:28 AM:257] Activity: Pulling Snowfall Glade Den Mother now.
+[10:51:28 AM:482] Activity: Pulling
+[10:51:29 AM:173] Spell_C::CastSpell(5176, 0, 0xF1306657000D03C8, 0) [42]
+[10:51:29 AM:192] -Wrath
+[10:51:31 AM:488] Spell_C::CastSpell(339, 0, 0xF1306657000D03C8, 0) [43]
+[10:51:31 AM:522] -Entangling Roots
+[10:51:31 AM:979] Cleared POI - Reason POI is dead from Combat
+[10:51:31 AM:979] Cleared POI
+[10:51:33 AM:731] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:51:33 AM:889] Moving to Type: Loot, Name: Snowfall Glade Den Mother
+[10:51:35 AM:529] InteractDebug:270763272
+[10:51:35 AM:547] Interact Done:270763272
+[10:51:36 AM:261] Looting Snowfall Glade Den Mother Guid:0xF1306657000D03C8
+[10:51:36 AM:296] Cleared POI - Reason Waiting for loot flag
+[10:51:36 AM:296] Cleared POI
+[10:51:36 AM:983] Changed POI to:Type: Loot, Name: Snowfall Glade Den Mother
+[10:51:37 AM:179] Cleared POI - Reason Already looted
+[10:51:37 AM:179] Cleared POI
+[10:51:37 AM:414] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:37 AM:416] Activity: Interacting with - Snowfall Glade Pup
+[10:51:37 AM:417] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:37 AM:417] InteractDebug:270525472
+[10:51:37 AM:451] Interact Done:270525472
+[10:51:37 AM:452] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:40 AM:892] InteractDebug:270780672
+[10:51:40 AM:923] Interact Done:270780672
+[10:51:40 AM:924] [InteractWith-v184(debug) @line 98]: Snowfall Glade Pup
+[10:51:44 AM:941] Compiling expression '((HasQuest(11960)) && (IsQuestCompleted(11960)))' @ line 101
+[10:51:45 AM:233] Goal: Flying to <2798.11, 915.9924, 22.08739>
+[10:51:45 AM:233] [FlyTo-v184(debug) @line 102]: Flying to '<2798.11, 915.9924, 22.08739>': <2798.11, 915.9924, 22.08739>.
+[10:51:45 AM:796] Spell_C::CastSpell(40120, 0, 0x0, 0) [44]
+[10:51:53 AM:057] [Flightor]: Unstuck attempt 0
+[10:52:12 AM:869] Goal: Dismounting
+[10:52:12 AM:890] [ForcedDismount-v184(debug) @line 103]: Cancelling Flight Form
+[10:52:12 AM:930] [ForcedDismount-v184(debug) @line 103]: Dismounting
+[10:52:12 AM:930] Stop and dismount...
+[10:52:14 AM:758] Goal: Turning in Planning for the Future
+[10:52:14 AM:758] Changed POI to:Type: QuestTurnIn
+[10:52:14 AM:916] Moving to Type: QuestTurnIn
+[10:52:14 AM:916] Activity: Loading Tile/s
+[10:52:14 AM:916] Loading Northrend_30_26
+[10:52:15 AM:876] InteractDebug:977252936
+[10:52:15 AM:910] Interact Done:977252936
+[10:52:19 AM:414] Cleared POI - Reason Quest Completed #2
+[10:52:19 AM:414] Cleared POI
+[10:52:19 AM:909] Compiling expression '(IsQuestCompleted(11469))' @ line 127
+[10:52:20 AM:540] Compiling expression '((!HasQuest(11472)) && (!IsQuestCompleted(11472)))' @ line 128
+[10:52:20 AM:844] Compiling expression 'Me.ZoneId == 65' @ line 129
+[10:52:21 AM:146] [FlyTo-v184(warning)]: Found attribute via its alias name 'Name'.
+Please update the profile to use its primary name 'DestName', instead.
+[10:52:21 AM:149] Goal: Flying to 1st point to HF
+[10:52:21 AM:149] [FlyTo-v184(debug) @line 130]: Flying to '1st point to HF': <2765.821, -2602.532, 370.5847>.
+[10:52:21 AM:656] Spell_C::CastSpell(40120, 0, 0x0, 0) [45]
+[10:54:18 AM:248] Goal: Flying to Kamagua in HF
+[10:54:18 AM:248] [FlyTo-v184(debug) @line 132]: Flying to 'Kamagua in HF': <749.1319, -2887.481, 7.648436>.
+[10:55:18 AM:851] Unloading tiles!
+[10:55:18 AM:852] Activity: Loading Tile/s
+[10:55:18 AM:852] Loading Northrend_37_30
+[10:55:18 AM:969] Blacklisting Unknown for 5 minutes because we can't navigate to it!
+[10:55:27 AM:176] Goal: Dismounting
+[10:55:27 AM:202] [ForcedDismount-v184(debug) @line 133]: Cancelling Flight Form
+[10:55:27 AM:238] [ForcedDismount-v184(debug) @line 133]: Dismounting
+[10:55:27 AM:238] Stop and dismount...
+[10:55:28 AM:074] Picking up The Way to His Heart... : 11472
+[10:55:28 AM:074] Goal: Picking up The Way to His Heart...
+[10:55:28 AM:075] Changed POI to:Type: QuestPickUp
+[10:55:28 AM:234] Moving to Type: QuestPickUp
+[10:55:29 AM:209] InteractDebug:270658872
+[10:55:29 AM:210] Interact Done:270658872
+[10:55:32 AM:804] Cleared POI - Reason Quest Completed
+[10:55:32 AM:804] Cleared POI
+[10:55:33 AM:123] Compiling expression '((HasQuest(11472)) && (!IsQuestCompleted(11472)))' @ line 136
+[10:55:33 AM:795] Goal: Flying to <151.7973, -3174.247, 25.40625>
+[10:55:33 AM:795] [FlyTo-v184(debug) @line 137]: Flying to '<151.7973, -3174.247, 25.40625>': <151.7973, -3174.247, 25.40625>.
+[10:55:34 AM:281] Spell_C::CastSpell(40120, 0, 0x0, 0) [46]
+[10:55:59 AM:048] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\UserDialog.cs'
+[10:55:59 AM:443] Goal: User Attention Required...
+[10:55:59 AM:443] Activity: Waiting for user dialog to close
+[10:59:33 AM:678] WoW cannot be minimized while running Honorbuddy!
+[11:02:13 AM:756] Activity: Continuing profile due to Notification criteria no longer valid
+[11:02:13 AM:756] [UserDialog-v184(completion criteria) @line 138]: Continuing profile due to Notification criteria no longer valid
+[11:02:15 AM:351] Compiling expression '((HasQuest(11472)) && (IsQuestCompleted(11472)))' @ line 146
+[11:02:15 AM:606] Goal: Flying to <749.1319, -2887.481, 7.648436>
+[11:02:15 AM:606] [FlyTo-v184(debug) @line 147]: Flying to '<749.1319, -2887.481, 7.648436>': <749.1319, -2887.481, 7.648436>.
+[11:02:16 AM:340] Spell_C::CastSpell(40120, 0, 0xF13060E40014AD1E, 0) [47]
+[11:02:43 AM:082] Goal: Dismounting
+[11:02:43 AM:147] [ForcedDismount-v184(debug) @line 148]: Dismounting
+[11:02:43 AM:147] Stop and dismount...
+[11:02:46 AM:156] Goal: Turning in The Way to His Heart...
+[11:02:46 AM:156] Changed POI to:Type: QuestTurnIn
+[11:02:46 AM:723] Moving to Type: QuestTurnIn
+[11:02:47 AM:764] InteractDebug:270508072
+[11:02:47 AM:842] Interact Done:270508072
+[11:02:53 AM:595] Cleared POI - Reason Quest Completed #2
+[11:02:53 AM:595] Cleared POI
+[11:02:54 AM:550] Goal: User Attention Required...
+[11:02:54 AM:550] Activity: Waiting for user dialog to close
+[11:04:36 AM:113] Not in game
+[11:04:41 AM:388] Downloaded tilemap Kalimdor
+[11:04:41 AM:509] Changed tilemap to Kalimdor, Tiled: True
+[11:04:42 AM:310] You are a level 85 Balance Druid
+[11:38:06 AM:925] Inserting Zulna [Vendor] into the database!
+[11:38:06 AM:928] Inserting Togar [Vendor] into the database!
+[11:38:06 AM:942] Inserting Brew Vendor [Gossip] into the database!
+[11:39:14 AM:908] Inserting Rogoc [Vendor] into the database!
+[11:39:14 AM:910] Inserting Galra [Vendor] into the database!
+[11:40:18 AM:843] Activity: Honorbuddy stopped due to  User request
+[11:40:18 AM:843] [UserDialog-v184(user response) @line 154]: Honorbuddy stopped due to  User request
+[11:40:18 AM:843] Stop called!
+[11:40:18 AM:887] Activity: Honorbuddy Stopped
+[11:40:18 AM:917] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[11:40:18 AM:918] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
