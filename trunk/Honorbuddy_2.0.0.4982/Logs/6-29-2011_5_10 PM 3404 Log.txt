@@ -1,0 +1,175 @@
+[5:10:15 PM:383] Logging in...
+[5:10:16 PM:157] Buddy Sessions: 0/0
+-----
+Shared Sessions: 1/9
+[5:10:17 PM:201] Attached to WoW with ID 3128
+[5:10:17 PM:290] Honorbuddy v2.0.0.4982 started!
+[5:10:17 PM:290] Using WoW with process ID 3128
+[5:10:17 PM:290] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[5:10:17 PM:290] Executable Path: C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Honorbuddy.exe
+[5:10:17 PM:293] Character is a level 85 BloodElf Paladin
+[5:10:17 PM:294] Current zone is Mount Hyjal
+[5:10:17 PM:301] New bot added!: ArchaeologyBuddy
+[5:10:17 PM:712] New bot added!: Instancebuddy
+[5:10:17 PM:728] New bot added!: Gatherbuddy2
+[5:10:17 PM:729] New bot added!: Grind Bot
+[5:10:17 PM:729] New bot added!: Questing
+[5:10:17 PM:731] New bot added!: PvP
+[5:10:17 PM:731] New bot added!: BG Bot [Beta]
+[5:10:17 PM:733] New bot added!: Mixed Mode
+[5:10:17 PM:734] New bot added!: PartyBot
+[5:10:18 PM:437] New bot added!: Combat/Heal Bot [1.0.0]
+[5:10:18 PM:437] New bot added!: MrFishIt [1.0.5]
+[5:10:19 PM:180] MeshesFolderPath: C:\Games\WOW\Mesh
+[5:10:19 PM:180] KillBetweenHotspots: True
+[5:10:19 PM:180] AdvancedSettingsMode: True
+[5:10:19 PM:180] LogoutForInactivity: False
+[5:10:19 PM:180] LogoutInactivityTimer: 10
+[5:10:19 PM:180] LogoutInactivityUseForceQuit: False
+[5:10:19 PM:180] ProfileDebuggingMode: False
+[5:10:19 PM:180] FoodAmount: 0
+[5:10:19 PM:180] DrinkAmount: 0
+[5:10:19 PM:180] FormLocationX: 20
+[5:10:19 PM:180] FormLocationY: 20
+[5:10:19 PM:180] FormWidth: 396
+[5:10:19 PM:180] FormHeight: 302
+[5:10:19 PM:180] SelectedBotIndex: 0
+[5:10:19 PM:180] UseFlightPaths: False
+[5:10:19 PM:180] FindMountAutomatically: True
+[5:10:19 PM:180] UseRandomMount: True
+[5:10:19 PM:180] FoodName has no value yet!
+[5:10:19 PM:180] DrinkName has no value yet!
+[5:10:19 PM:180] MountName has no value yet!
+[5:10:19 PM:180] LootMobs: True
+[5:10:19 PM:180] SkinMobs: False
+[5:10:19 PM:180] NinjaSkin: False
+[5:10:19 PM:180] LootChests: True
+[5:10:19 PM:180] HarvestMinerals: False
+[5:10:19 PM:180] HarvestHerbs: False
+[5:10:19 PM:180] UseMount: True
+[5:10:19 PM:180] PullDistance: 30
+[5:10:19 PM:180] LootRadius: 45
+[5:10:19 PM:180] FindVendorsAutomatically: False
+[5:10:19 PM:180] TrainNewSkills: False
+[5:10:19 PM:180] LearnFlightPaths: True
+[5:10:19 PM:180] LastUsedPath has no value yet!
+[5:10:19 PM:180] MountDistance: 75
+[5:10:19 PM:180] RessAtSpiritHealers: False
+[5:10:19 PM:180] GroundMountFarmingMode: False
+[5:10:19 PM:180] FoodAmount: 0
+[5:10:19 PM:180] DrinkAmount: 0
+[5:10:19 PM:180] FormLocationX: 20
+[5:10:19 PM:180] FormLocationY: 20
+[5:10:19 PM:180] SelectedBotIndex: 0
+[5:10:19 PM:180] UseFlightPaths: False
+[5:10:19 PM:180] FindMountAutomatically: True
+[5:10:19 PM:180] UseRandomMount: True
+[5:10:19 PM:180] FoodName has no value yet!
+[5:10:19 PM:180] DrinkName has no value yet!
+[5:10:19 PM:180] MountName has no value yet!
+[5:10:19 PM:180] LootMobs: True
+[5:10:19 PM:180] SkinMobs: False
+[5:10:19 PM:180] NinjaSkin: False
+[5:10:19 PM:180] LootChests: True
+[5:10:19 PM:180] HarvestMinerals: False
+[5:10:19 PM:180] HarvestHerbs: False
+[5:10:19 PM:180] UseMount: True
+[5:10:19 PM:180] PullDistance: 30
+[5:10:19 PM:180] LootRadius: 45
+[5:10:19 PM:180] FindVendorsAutomatically: False
+[5:10:19 PM:180] TrainNewSkills: False
+[5:10:19 PM:180] LearnFlightPaths: True
+[5:10:19 PM:180] LastUsedPath has no value yet!
+[5:10:19 PM:180] MountDistance: 75
+[5:10:19 PM:180] RessAtSpiritHealers: False
+[5:10:19 PM:181] Please wait a few seconds while Honorbuddy initializes.
+[5:10:19 PM:182] Activity: Initializing.
+[5:10:19 PM:183] Activity: Loading memory management & tables
+[5:10:19 PM:196] Activity: Loading Spells
+[5:10:19 PM:223] Activity: Initializing Spell Manager
+[5:10:19 PM:235] Activity: Initializing Plugins
+[5:10:19 PM:242] 
+[5:10:19 PM:885] [WeigtSet] Selected weight set: Paladin-Retribution
+[5:10:21 PM:307] Activity: Initializing Navigator
+[5:10:21 PM:348] Activity: Initializing Blackspot Manager
+[5:10:21 PM:352] Activity: Initializing Battlegrounds
+[5:10:21 PM:386] Activity: Initializing Flight Paths
+[5:10:21 PM:450] Activity: Initializing Routines
+[5:10:21 PM:454] Building spell book
+[5:10:21 PM:456] Spell book built
+[5:10:21 PM:457] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\FPSWare Druid
+[5:10:21 PM:930] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\ShamWOW
+[5:10:22 PM:255] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\Singular
+[5:10:22 PM:823] Disabling flight checks. - Paid Plugins or Lifetime User Detected
+[5:10:22 PM:823] Activity: Initialization complete
+[5:10:22 PM:823] Initialization complete.
+[5:10:22 PM:823] Activity: Honorbuddy Startup Complete
+[5:12:13 PM:846] Chose Singular $Revision: 254 $ as your combat class!
+[5:12:13 PM:847] [Singular] Starting Singular v0.0.0.0
+[5:12:13 PM:893] [Singular] Determining talent spec.
+[5:12:13 PM:959] [Singular] Current spec is  Lowbie
+[5:12:13 PM:993] [Singular] Singular currently does not support Combat for this class/spec combination, in this context! [None, Lowbie, Normal]
+[5:12:13 PM:993] Stop called!
+[5:12:42 PM:332] Activity: Loading Profile...
+[5:12:50 PM:047] Downloaded tilemap Kalimdor
+[5:12:50 PM:307] Changed tilemap to Kalimdor, Tiled: True
+[5:12:50 PM:662] Starting the bot!
+[5:12:50 PM:767] Changing current profile to [N - Quest] Hyjal 80-82 [Kick]
+[5:12:51 PM:295] Cleared POI
+[5:12:51 PM:296] Cleared POI - Reason Starting up
+[5:12:51 PM:296] Cleared POI
+[5:12:52 PM:972] Compiling expression 'Me.IsHorde && !IsQuestCompleted(25316)' @ line 405
+[5:12:53 PM:224] Compiling expression '(!StyxWoW.FlightChecksDisabled)' @ line 409
+[5:12:53 PM:437] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\UserSettings.cs'
+[5:12:53 PM:745] Compiling expression '(!IsQuestCompleted(25316))' @ line 415
+[5:12:53 PM:958] Compiling expression '((!HasQuest(25316)) && (!IsQuestCompleted(25316)))' @ line 444
+[5:12:54 PM:168] Compiling expression '(HasQuest(25316))' @ line 449
+[5:12:54 PM:383] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\Message.cs'
+[5:12:54 PM:610] [Profile Message]: Compiling Mount Hyjal Quests
+[5:12:54 PM:610] [Profile Message]: Compiling Nordrassil Quests
+[5:12:54 PM:610] Compiling expression '((HasQuest(25316)) && (IsQuestCompleted(25316)))' @ line 462
+[5:12:54 PM:816] Compiling expression '((!HasQuest(25317)) && (!IsQuestCompleted(25317)))' @ line 468
+[5:12:55 PM:020] Compiling expression '((!HasQuest(25460)) && (!IsQuestCompleted(25460)))' @ line 473
+[5:12:55 PM:235] Compiling expression '((!HasQuest(25370)) && (!IsQuestCompleted(25370)))' @ line 477
+[5:12:55 PM:453] Compiling expression '((HasQuest(25370)) && (!IsQuestCompleted(25370)))' @ line 481
+[5:12:55 PM:869] Compiling expression '((HasQuest(25460)) && (!IsQuestCompleted(25460)))' @ line 487
+[5:12:56 PM:081] Compiling expression '((HasQuest(25460)) && (IsQuestCompleted(25460)))' @ line 492
+[5:12:56 PM:294] Compiling expression '((HasQuest(25370)) && (IsQuestCompleted(25370)))' @ line 497
+[5:12:56 PM:503] Compiling expression '((!HasQuest(25574)) && (!IsQuestCompleted(25574)))' @ line 502
+[5:12:56 PM:715] Compiling expression '((HasQuest(25574)) && (!IsQuestCompleted(25574)))' @ line 506
+[5:12:56 PM:926] Compiling expression '((HasQuest(25574)) && (IsQuestCompleted(25574)))' @ line 513
+[5:12:57 PM:137] [Profile Message]: Compiling The Circle of Cinders Quests
+[5:12:57 PM:137] Compiling expression '((HasQuest(25317)) && (IsQuestCompleted(25317)))' @ line 522
+[5:12:57 PM:353] Compiling expression '((!HasQuest(25319)) && (!IsQuestCompleted(25319)))' @ line 528
+[5:12:57 PM:564] Compiling expression '((!HasQuest(25472)) && (!IsQuestCompleted(25472)))' @ line 532
+[5:12:57 PM:781] Compiling expression '((HasQuest(25472)) && (!IsQuestCompleted(25472)))' @ line 536
+[5:12:58 PM:018] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\FlyTo.cs'
+[5:12:58 PM:254] Goal: Flying to get Staff Fragments
+[5:12:58 PM:255] [FlyTo-v184(debug) @line 537]: Flying to 'get Staff Fragments': <5274.013, -2827.081, 1525.995>.
+[5:12:59 PM:425] Spell_C::CastSpell(98727, 0, 0x0, 0) [1]
+[5:13:07 PM:048] Compiling quest behavior from 'C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Quest Behaviors\ForcedDismount.cs'
+[5:13:07 PM:302] Goal: Dismounting
+[5:13:07 PM:308] [ForcedDismount-v184(debug) @line 538]: Dismounting
+[5:13:07 PM:309] Stop and dismount...
+[5:13:08 PM:602] Goal: Goal: Collect Charred Staff Fragment x 8
+[5:13:08 PM:620] Activity: Moving to hotspot
+[5:13:08 PM:629] Activity: Loading Tile/s
+[5:13:08 PM:629] Loading Kalimdor_37_22
+[5:13:08 PM:987] Changed POI to:Type: Harvest
+[5:13:09 PM:143] Moving to Type: Harvest
+[5:13:09 PM:951] InteractDebug:931442744
+[5:13:09 PM:963] Interact Done:931442744
+[5:13:11 PM:607] Looting Charred Staff Fragment Guid:0xF113185E00067721
+[5:13:11 PM:633] Cleared POI - Reason Waiting for loot flag
+[5:13:11 PM:633] Cleared POI
+[5:13:12 PM:116] Activity: Combat
+[5:13:26 PM:233] Stopping the bot!
+[5:13:26 PM:233] Stop called!
+[5:13:26 PM:272] Activity: Honorbuddy Stopped
+[5:13:26 PM:280] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   at System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[5:13:26 PM:281] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()

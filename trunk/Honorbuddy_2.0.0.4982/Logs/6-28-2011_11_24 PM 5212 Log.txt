@@ -1,0 +1,363 @@
+[11:24:59 PM:885] Logging in...
+[11:25:00 PM:383] Buddy Sessions: 0/0
+-----
+Shared Sessions: 2/9
+[11:25:06 PM:170] Attached to WoW with ID 732
+[11:25:06 PM:219] Honorbuddy v2.0.0.4982 started!
+[11:25:06 PM:219] Using WoW with process ID 732
+[11:25:06 PM:219] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[11:25:06 PM:219] Executable Path: C:\Games\WOW\Honorbuddy_2.0.0.4982.1\Honorbuddy.exe
+[11:25:06 PM:223] Character is a level 85 Troll Druid
+[11:25:06 PM:224] Current zone is Wintergrasp
+[11:25:06 PM:227] New bot added!: ArchaeologyBuddy
+[11:25:06 PM:746] New bot added!: Instancebuddy
+[11:25:06 PM:761] New bot added!: Gatherbuddy2
+[11:25:06 PM:761] New bot added!: Grind Bot
+[11:25:06 PM:762] New bot added!: Questing
+[11:25:06 PM:764] New bot added!: PvP
+[11:25:06 PM:764] New bot added!: BG Bot [Beta]
+[11:25:06 PM:766] New bot added!: Mixed Mode
+[11:25:06 PM:766] New bot added!: PartyBot
+[11:25:07 PM:394] New bot added!: Combat/Heal Bot [1.0.0]
+[11:25:07 PM:394] New bot added!: MrFishIt [1.0.5]
+[11:25:08 PM:084] MeshesFolderPath: C:\Users\PC\AppData\Local\HonorbuddyMeshes
+[11:25:08 PM:084] KillBetweenHotspots: True
+[11:25:08 PM:084] AdvancedSettingsMode: True
+[11:25:08 PM:084] LogoutForInactivity: True
+[11:25:08 PM:084] LogoutInactivityTimer: 10
+[11:25:08 PM:084] LogoutInactivityUseForceQuit: False
+[11:25:08 PM:084] ProfileDebuggingMode: False
+[11:25:08 PM:084] FoodAmount: 0
+[11:25:08 PM:084] DrinkAmount: 0
+[11:25:08 PM:084] FormLocationX: 20
+[11:25:08 PM:084] FormLocationY: 20
+[11:25:08 PM:084] FormWidth: 396
+[11:25:08 PM:084] FormHeight: 302
+[11:25:08 PM:084] SelectedBotIndex: 0
+[11:25:08 PM:084] UseFlightPaths: False
+[11:25:08 PM:084] FindMountAutomatically: True
+[11:25:08 PM:084] UseRandomMount: True
+[11:25:08 PM:084] FoodName has no value yet!
+[11:25:08 PM:084] DrinkName has no value yet!
+[11:25:08 PM:084] MountName has no value yet!
+[11:25:08 PM:084] LootMobs: True
+[11:25:08 PM:084] SkinMobs: False
+[11:25:08 PM:084] NinjaSkin: False
+[11:25:08 PM:084] LootChests: True
+[11:25:08 PM:084] HarvestMinerals: False
+[11:25:08 PM:084] HarvestHerbs: False
+[11:25:08 PM:084] UseMount: True
+[11:25:08 PM:084] PullDistance: 30
+[11:25:08 PM:084] LootRadius: 45
+[11:25:08 PM:084] FindVendorsAutomatically: False
+[11:25:08 PM:084] TrainNewSkills: False
+[11:25:08 PM:084] LearnFlightPaths: True
+[11:25:08 PM:084] LastUsedPath has no value yet!
+[11:25:08 PM:084] MountDistance: 75
+[11:25:08 PM:084] RessAtSpiritHealers: False
+[11:25:08 PM:084] GroundMountFarmingMode: False
+[11:25:08 PM:084] FoodAmount: 0
+[11:25:08 PM:084] DrinkAmount: 0
+[11:25:08 PM:084] FormLocationX: 20
+[11:25:08 PM:084] FormLocationY: 20
+[11:25:08 PM:084] SelectedBotIndex: 0
+[11:25:08 PM:084] UseFlightPaths: False
+[11:25:08 PM:084] FindMountAutomatically: True
+[11:25:08 PM:084] UseRandomMount: True
+[11:25:08 PM:084] FoodName has no value yet!
+[11:25:08 PM:084] DrinkName has no value yet!
+[11:25:08 PM:084] MountName has no value yet!
+[11:25:08 PM:084] LootMobs: True
+[11:25:08 PM:084] SkinMobs: False
+[11:25:08 PM:084] NinjaSkin: False
+[11:25:08 PM:084] LootChests: True
+[11:25:08 PM:084] HarvestMinerals: False
+[11:25:08 PM:084] HarvestHerbs: False
+[11:25:08 PM:084] UseMount: True
+[11:25:08 PM:084] PullDistance: 30
+[11:25:08 PM:084] LootRadius: 45
+[11:25:08 PM:084] FindVendorsAutomatically: False
+[11:25:08 PM:084] TrainNewSkills: False
+[11:25:08 PM:084] LearnFlightPaths: True
+[11:25:08 PM:084] LastUsedPath has no value yet!
+[11:25:08 PM:084] MountDistance: 75
+[11:25:08 PM:084] RessAtSpiritHealers: False
+[11:25:08 PM:085] Please wait a few seconds while Honorbuddy initializes.
+[11:25:08 PM:086] Activity: Initializing.
+[11:25:08 PM:087] Activity: Loading memory management & tables
+[11:25:08 PM:101] Activity: Loading Spells
+[11:25:08 PM:143] Activity: Initializing Spell Manager
+[11:25:08 PM:156] Activity: Initializing Plugins
+[11:25:08 PM:157] 
+[11:25:08 PM:894] [WeigtSet] Selected weight set: Druid-Feral
+[11:25:10 PM:459] Activity: Initializing Navigator
+[11:25:10 PM:501] Activity: Initializing Blackspot Manager
+[11:25:10 PM:503] Activity: Initializing Battlegrounds
+[11:25:10 PM:514] Activity: Initializing Flight Paths
+[11:25:10 PM:564] Activity: Initializing Routines
+[11:25:10 PM:567] Building spell book
+[11:25:10 PM:569] Adding: Feral Charge
+[11:25:10 PM:569] Adding: Mangle
+[11:25:10 PM:569] Adding: Stampeding Roar
+[11:25:10 PM:569] Adding: Swipe
+[11:25:10 PM:571] Spell book built
+[11:25:10 PM:571] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\FPSWare Druid
+[11:25:11 PM:157] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\ShamWOW
+[11:25:11 PM:549] Compiling C:\Games\WOW\Honorbuddy_2.0.0.4982.1\CustomClasses\Singular
+[11:25:12 PM:124] Disabling flight checks. - Paid Plugins or Lifetime User Detected
+[11:25:12 PM:124] Activity: Initialization complete
+[11:25:12 PM:124] Initialization complete.
+[11:25:12 PM:125] Activity: Honorbuddy Startup Complete
+[11:25:20 PM:606] Chose Singular $Revision: 254 $ as your combat class!
+[11:25:20 PM:606] [Singular] Starting Singular v0.0.0.0
+[11:25:20 PM:644] [Singular] Determining talent spec.
+[11:25:20 PM:768] [Singular] Current spec is  Feral Tank Druid
+[11:25:20 PM:773] [Singular] Using CreateFeralCatCombat for Feral Tank Druid - Combat (Priority: 0)
+[11:25:20 PM:790] [Singular] Using CreateFeralCatPull for Feral Tank Druid - Pull (Priority: 0)
+[11:25:20 PM:793] [Singular] Using CreateFeralCatRest for Feral Tank Druid - Rest (Priority: 0)
+[11:25:20 PM:806] [Singular] Using CreateDruidBuffComposite for Feral Tank Druid - PreCombatBuffs (Priority: 0)
+[11:25:20 PM:808] [Singular] Behaviors created!
+[11:26:01 PM:046] Activity: Loading Profile...
+[11:26:13 PM:670] Downloaded tilemap Northrend
+[11:26:13 PM:925] Changed tilemap to Northrend, Tiled: True
+[11:26:13 PM:958] Changing current profile to level 0 - 2147483647
+[11:26:28 PM:508] <Hotspot X="4860.662" Y="2088.871" Z="422.2941" />
+[11:30:24 PM:878] Starting the bot!
+[11:30:24 PM:903] Changing current profile to level 0 - 2147483647
+[11:30:25 PM:060] Cleared POI
+[11:30:25 PM:060] Cleared POI - Reason Starting up
+[11:30:25 PM:061] Cleared POI
+[11:30:25 PM:161] You are a level 85 Feral Druid
+[11:30:25 PM:162] Loading settings ...
+[11:30:25 PM:174] Settings loaded
+[11:30:25 PM:174] -Populating ranged capable database...
+[11:30:25 PM:176] -8 entries added
+[11:30:25 PM:176] -Populating priority mobs database...
+[11:30:25 PM:177] -17 entries added
+[11:30:25 PM:177] -Populating healing spells database...
+[11:30:25 PM:177] -20 entries added
+[11:30:25 PM:178] -Populating important interrupt spells database...
+[11:30:25 PM:178] -35 entries added
+[11:30:25 PM:676] Casting
+[11:30:25 PM:684] Spell_C::CastSpell(88868, 0, 0x0, 0) [1]
+[11:30:26 PM:336] Activity: Waiting for bobber to splash
+[11:30:41 PM:931] Got a bite!
+[11:30:41 PM:932] InteractDebug:805065312
+[11:30:41 PM:963] Interact Done:805065312
+[11:30:42 PM:747] Activity: Looting
+[11:30:43 PM:400] Casting
+[11:30:43 PM:401] Spell_C::CastSpell(88868, 0, 0x0, 0) [2]
+[11:30:44 PM:048] Activity: Waiting for bobber to splash
+[11:30:54 PM:183] Got a bite!
+[11:30:54 PM:184] InteractDebug:805068792
+[11:30:54 PM:226] Interact Done:805068792
+[11:30:55 PM:438] Activity: Looting
+[11:30:56 PM:098] Casting
+[11:30:56 PM:099] Spell_C::CastSpell(88868, 0, 0x0, 0) [3]
+[11:30:56 PM:754] Activity: Waiting for bobber to splash
+[11:31:06 PM:482] Got a bite!
+[11:31:06 PM:482] InteractDebug:805031208
+[11:31:06 PM:513] Interact Done:805031208
+[11:31:11 PM:610] Casting
+[11:31:11 PM:612] Spell_C::CastSpell(88868, 0, 0x0, 0) [4]
+[11:31:12 PM:254] Spell_C::CastSpell(88868, 0, 0x0, 0) [5]
+[11:31:27 PM:929] Got a bite!
+[11:31:27 PM:929] InteractDebug:805065312
+[11:31:27 PM:960] Interact Done:805065312
+[11:31:28 PM:733] Activity: Looting
+[11:31:29 PM:383] Casting
+[11:31:29 PM:384] Spell_C::CastSpell(88868, 0, 0x0, 0) [6]
+[11:31:29 PM:990] Activity: Waiting for bobber to splash
+[11:31:45 PM:344] Got a bite!
+[11:31:45 PM:344] InteractDebug:805068792
+[11:31:45 PM:372] Interact Done:805068792
+[11:31:46 PM:278] Activity: Looting
+[11:31:46 PM:926] Casting
+[11:31:46 PM:927] Spell_C::CastSpell(88868, 0, 0x0, 0) [7]
+[11:31:47 PM:537] Spell_C::CastSpell(88868, 0, 0x0, 0) [8]
+[11:31:48 PM:148] Activity: Waiting for bobber to splash
+[11:32:03 PM:491] Got a bite!
+[11:32:03 PM:491] InteractDebug:805031208
+[11:32:03 PM:522] Interact Done:805031208
+[11:32:08 PM:615] Casting
+[11:32:08 PM:616] Spell_C::CastSpell(88868, 0, 0x0, 0) [9]
+[11:32:09 PM:290] Spell_C::CastSpell(88868, 0, 0x0, 0) [10]
+[11:32:24 PM:589] Got a bite!
+[11:32:24 PM:589] InteractDebug:805065312
+[11:32:24 PM:595] Interact Done:805065312
+[11:32:29 PM:668] Casting
+[11:32:29 PM:669] Spell_C::CastSpell(88868, 0, 0x0, 0) [11]
+[11:32:45 PM:443] Got a bite!
+[11:32:45 PM:443] InteractDebug:805068792
+[11:32:45 PM:449] Interact Done:805068792
+[11:32:50 PM:483] Casting
+[11:32:50 PM:485] Spell_C::CastSpell(88868, 0, 0x0, 0) [12]
+[11:32:51 PM:144] Spell_C::CastSpell(88868, 0, 0x0, 0) [13]
+[11:33:01 PM:712] Got a bite!
+[11:33:01 PM:712] InteractDebug:805065312
+[11:33:01 PM:718] Interact Done:805065312
+[11:33:02 PM:259] Activity: Looting
+[11:33:07 PM:894] Casting
+[11:33:07 PM:895] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [14]
+[11:33:08 PM:528] Activity: Waiting for bobber to splash
+[11:33:23 PM:627] Got a bite!
+[11:33:23 PM:627] InteractDebug:805068792
+[11:33:23 PM:660] Interact Done:805068792
+[11:33:24 PM:721] Activity: Looting
+[11:33:25 PM:392] Casting
+[11:33:25 PM:395] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [15]
+[11:33:26 PM:047] Activity: Waiting for bobber to splash
+[11:33:36 PM:488] Got a bite!
+[11:33:36 PM:488] InteractDebug:805031208
+[11:33:36 PM:521] Interact Done:805031208
+[11:33:41 PM:551] Casting
+[11:33:41 PM:553] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [16]
+[11:33:52 PM:088] Got a bite!
+[11:33:52 PM:089] InteractDebug:805065312
+[11:33:52 PM:120] Interact Done:805065312
+[11:33:52 PM:640] Activity: Looting
+[11:33:53 PM:296] Casting
+[11:33:53 PM:298] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [17]
+[11:33:53 PM:910] Activity: Waiting for bobber to splash
+[11:34:04 PM:331] Got a bite!
+[11:34:04 PM:331] InteractDebug:805068792
+[11:34:04 PM:363] Interact Done:805068792
+[11:34:09 PM:458] Casting
+[11:34:09 PM:460] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [18]
+[11:34:10 PM:146] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [19]
+[11:34:15 PM:645] Got a bite!
+[11:34:15 PM:646] InteractDebug:805032600
+[11:34:15 PM:651] Interact Done:805032600
+[11:34:16 PM:360] Activity: Looting
+[11:34:16 PM:957] Casting
+[11:34:16 PM:958] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [20]
+[11:34:17 PM:560] Activity: Waiting for bobber to splash
+[11:34:32 PM:884] Got a bite!
+[11:34:32 PM:884] InteractDebug:805043040
+[11:34:32 PM:890] Interact Done:805043040
+[11:34:37 PM:907] Casting
+[11:34:37 PM:909] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [21]
+[11:34:38 PM:499] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [22]
+[11:34:48 PM:636] Got a bite!
+[11:34:48 PM:636] InteractDebug:805031208
+[11:34:48 PM:642] Interact Done:805031208
+[11:34:53 PM:643] Casting
+[11:34:53 PM:644] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [23]
+[11:35:09 PM:680] Got a bite!
+[11:35:09 PM:680] InteractDebug:805068792
+[11:35:09 PM:686] Interact Done:805068792
+[11:35:14 PM:710] Casting
+[11:35:14 PM:712] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [24]
+[11:35:25 PM:217] Got a bite!
+[11:35:25 PM:218] InteractDebug:805031208
+[11:35:25 PM:223] Interact Done:805031208
+[11:35:30 PM:268] Casting
+[11:35:30 PM:269] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [25]
+[11:35:46 PM:552] Got a bite!
+[11:35:46 PM:552] InteractDebug:805065312
+[11:35:46 PM:560] Interact Done:805065312
+[11:35:51 PM:570] Casting
+[11:35:51 PM:572] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [26]
+[11:36:02 PM:590] Got a bite!
+[11:36:02 PM:590] InteractDebug:805031208
+[11:36:02 PM:598] Interact Done:805031208
+[11:36:07 PM:641] Casting
+[11:36:07 PM:643] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [27]
+[11:36:23 PM:921] Got a bite!
+[11:36:23 PM:921] InteractDebug:805043040
+[11:36:23 PM:928] Interact Done:805043040
+[11:36:24 PM:628] Activity: Looting
+[11:36:25 PM:158] Casting
+[11:36:25 PM:159] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [28]
+[11:36:25 PM:690] Activity: Waiting for bobber to splash
+[11:36:41 PM:342] Got a bite!
+[11:36:41 PM:342] InteractDebug:805031208
+[11:36:41 PM:349] Interact Done:805031208
+[11:36:46 PM:365] Casting
+[11:36:46 PM:367] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [29]
+[11:37:02 PM:140] Got a bite!
+[11:37:02 PM:140] InteractDebug:805065312
+[11:37:02 PM:148] Interact Done:805065312
+[11:37:07 PM:201] Casting
+[11:37:07 PM:203] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [30]
+[11:37:17 PM:637] Got a bite!
+[11:37:17 PM:637] InteractDebug:805068792
+[11:37:17 PM:643] Interact Done:805068792
+[11:37:22 PM:686] Casting
+[11:37:22 PM:687] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [31]
+[11:37:23 PM:216] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [32]
+[11:37:39 PM:092] Got a bite!
+[11:37:39 PM:093] InteractDebug:805032600
+[11:37:39 PM:100] Interact Done:805032600
+[11:37:44 PM:105] Casting
+[11:37:44 PM:106] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [33]
+[11:37:59 PM:894] Got a bite!
+[11:37:59 PM:894] InteractDebug:805068792
+[11:37:59 PM:927] Interact Done:805068792
+[11:38:00 PM:805] Activity: Looting
+[11:38:01 PM:404] Activity: Waiting for bobber to splash
+[11:38:01 PM:493] Casting
+[11:38:01 PM:495] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [34]
+[11:38:12 PM:104] Got a bite!
+[11:38:12 PM:105] InteractDebug:805031208
+[11:38:12 PM:136] Interact Done:805031208
+[11:38:13 PM:027] Activity: Looting
+[11:38:13 PM:586] Activity: Waiting for bobber to splash
+[11:38:13 PM:976] Casting
+[11:38:13 PM:978] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [35]
+[11:38:14 PM:541] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [36]
+[11:38:30 PM:144] Got a bite!
+[11:38:30 PM:144] InteractDebug:805065312
+[11:38:30 PM:176] Interact Done:805065312
+[11:38:35 PM:255] Casting
+[11:38:35 PM:256] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [37]
+[11:38:51 PM:347] Got a bite!
+[11:38:51 PM:347] InteractDebug:805043040
+[11:38:51 PM:379] Interact Done:805043040
+[11:38:56 PM:457] Casting
+[11:38:56 PM:458] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [38]
+[11:39:12 PM:276] Got a bite!
+[11:39:12 PM:276] InteractDebug:805065312
+[11:39:12 PM:308] Interact Done:805065312
+[11:39:17 PM:378] Casting
+[11:39:17 PM:380] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [39]
+[11:39:17 PM:932] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [40]
+[11:39:33 PM:831] Got a bite!
+[11:39:33 PM:831] InteractDebug:805068792
+[11:39:33 PM:863] Interact Done:805068792
+[11:39:38 PM:905] Casting
+[11:39:38 PM:907] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [41]
+[11:39:54 PM:555] Got a bite!
+[11:39:54 PM:555] InteractDebug:805065312
+[11:39:54 PM:585] Interact Done:805065312
+[11:39:55 PM:594] Activity: Looting
+[11:39:56 PM:078] Activity: Waiting for bobber to splash
+[11:39:56 PM:277] Casting
+[11:39:56 PM:278] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [42]
+[11:40:12 PM:570] Got a bite!
+[11:40:12 PM:571] InteractDebug:805068792
+[11:40:12 PM:602] Interact Done:805068792
+[11:40:17 PM:635] Casting
+[11:40:17 PM:637] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [43]
+[11:40:18 PM:155] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [44]
+[11:40:28 PM:426] Got a bite!
+[11:40:28 PM:426] InteractDebug:805065312
+[11:40:28 PM:458] Interact Done:805065312
+[11:40:33 PM:511] Casting
+[11:40:33 PM:512] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [45]
+[11:40:34 PM:028] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [46]
+[11:40:44 PM:212] Got a bite!
+[11:40:44 PM:213] InteractDebug:805068792
+[11:40:44 PM:245] Interact Done:805068792
+[11:40:44 PM:736] Activity: Looting
+[11:40:50 PM:274] Casting
+[11:40:50 PM:275] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [47]
+[11:40:50 PM:769] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [48]
+[11:40:51 PM:286] Activity: Waiting for bobber to splash
+[11:41:06 PM:843] Got a bite!
+[11:41:06 PM:843] InteractDebug:805043040
+[11:41:06 PM:875] Interact Done:805043040
+[11:41:07 PM:673] Activity: Looting
+[11:41:08 PM:161] Casting
+[11:41:08 PM:163] Spell_C::CastSpell(88868, 0, 0x38000000427F62F, 0) [49]
+[11:41:08 PM:634] Activity: Waiting for bobber to splash
