@@ -21,6 +21,7 @@
 
 	<Vendors>
 		<Vendor Name="Naka Scaleblade" Entry="49768" Type="Repair" X="-3675.151" Y="-5381.104" Z="35.76816"/>
+		<Vendor Name="Garm Bonehew" Entry="49763" Type="Food" X="-3731.536" Y="-5281.377" Z="37.2374" />
 	</Vendors>
 	
 	<Mailboxes>
