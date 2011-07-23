@@ -1,3 +1,0 @@
-Professionbuddy 1.0.0.35
-* Professionbuddy can now mill the Deadnettle herb
-* Fixed an issue where locations from profiles were sometimes not properly loaded due to a type confliction.
