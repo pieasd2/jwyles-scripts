@@ -20,11 +20,11 @@
   <SellPurple>False</SellPurple>
 
 	<Vendors>
-
+		<Vendor Name="Naka Scaleblade" Entry="49768" Type="Repair" X="-3675.151" Y="-5381.104" Z="35.76839" />
 	</Vendors>
 	
 	<Mailboxes>
-
+		<Mailbox X="-3666.778" Y="-5279.85" Z="41.82132" />
 	</Mailboxes>
 
   <Hotspots>
