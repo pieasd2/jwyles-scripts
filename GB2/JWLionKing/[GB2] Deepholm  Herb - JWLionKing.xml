@@ -20,7 +20,7 @@
   <SellPurple>False</SellPurple>
 
 	<Vendors>
-		<Vendor Name="Rixi "The Driller" Bombdigger" Entry="45293" Type="Repair" X="1091.19" Y="436.332" Z="-45.96811" />
+		<Vendor Name="Rixi The Driller Bombdigger" X="1091.19" Y="436.332" Z="-45.96811" />
 	</Vendors>
 	
 	<Mailboxes>
