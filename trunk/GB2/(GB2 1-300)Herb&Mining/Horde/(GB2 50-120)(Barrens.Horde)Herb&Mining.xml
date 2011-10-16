@@ -14,7 +14,7 @@
   <MailPurple>True</MailPurple>
  
   <SellGrey>True</SellGrey>
-  <SellWhite>True</SellWhite>
+  <SellWhite>False</SellWhite>
   <SellGreen>False</SellGreen>
   <SellBlue>False</SellBlue>
   <SellPurple>False</SellPurple>
@@ -24,7 +24,7 @@
 	</Vendors>
 	
 	<Mailboxes>
-
+		<Mailbox X="-448.7297" Y="-2648.812" Z="95.64796" />
 	</Mailboxes>
   <Blackspots>
 	<Blackspot X="1918.384" Y="-4584.305" Z="38.08955" Radius="2.488826" />
