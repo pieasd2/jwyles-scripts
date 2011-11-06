@@ -1,0 +1,60 @@
+<HBProfile creator="moujoohoo">
+  <Name>Mount Herb/Mine</Name>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>1</MinFreeBagSlots>
+  <MinLevel>1</MinLevel>
+  <MaxLevel>86</MaxLevel>
+  <Factions>99999</Factions>
+  <MailGrey>False</MailGrey>
+  <MailWhite>True</MailWhite>
+  <MailGreen>True</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <SellPurple>False</SellPurple>
+	<Vendors>
+		<Vendor Name="Jalin Lakedeep" Entry="43380" Type="Repair" X="5180.91" Y="-1716.01" Z="1339.965" />
+		<Vendor Name="Toron Rockhoof" Entry="43410" Type="Repair" X="5572.65" Y="-3600.99" Z="1570.6" />
+	</Vendors>
+	<Mailboxes>
+  		<Mailbox X="5136.163" Y="-1721.863" Z="1338.385" />
+		<Mailbox X="5524.635" Y="-3623.775" Z="1567.3" />
+	</Mailboxes>
+    <Hotspots>
+   <Hotspot X="4373.688" Y="-2640.003" Z="66" />
+<Hotspot X="4449.952" Y="-2567.908" Z="66" />
+<Hotspot X="4420.815" Y="-2536.131" Z="66" />
+<Hotspot X="4437.038" Y="-2388.588" Z="66" />
+<Hotspot X="4511.635" Y="-2129.89" Z="66" />
+<Hotspot X="4588.239" Y="-1838.123" Z="66" />
+<Hotspot X="4487.854" Y="-1808.385" Z="66" />
+<Hotspot X="4789.572" Y="-1596.729" Z="66" />
+<Hotspot X="4877.957" Y="-1473.811" Z="66" />
+<Hotspot X="5050.854" Y="-1469.388" Z="66" />
+<Hotspot X="5219.49" Y="-1370.45" Z="66" />
+<Hotspot X="5304.318" Y="-1544.745" Z="66" />
+<Hotspot X="5303.972" Y="-1905.085" Z="66" />
+<Hotspot X="5283.184" Y="-1867.185" Z="66" />
+<Hotspot X="5233.901" Y="-2369.592" Z="66" />
+<Hotspot X="5415.6" Y="-2330.51" Z="66" />
+<Hotspot X="5421.044" Y="-2458.909" Z="66" />
+<Hotspot X="5591.886" Y="-3137.443" Z="66" />
+<Hotspot X="5221.166" Y="-2928.054" Z="66" />
+<Hotspot X="5299.572" Y="-3442.235" Z="66" />
+<Hotspot X="5275.487" Y="-3709.899" Z="66" />
+<Hotspot X="5524.635" Y="-3623.775" Z="66" />
+<Hotspot X="5520.124" Y="-3828.245" Z="66" />
+<Hotspot X="5299.487" Y="-3442.422" Z="66" />
+<Hotspot X="5542.25" Y="-3075.333" Z="66" />
+<Hotspot X="5377.14" Y="-2955.699" Z="66" />
+<Hotspot X="5408.583" Y="-2864.25" Z="66" />
+<Hotspot X="4476.258" Y="-2013.708" Z="66" />
+
+
+
+
+  </Hotspots>
+</HBProfile>
