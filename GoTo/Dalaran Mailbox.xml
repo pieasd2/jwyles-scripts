@@ -7,9 +7,9 @@
 	<MinFreeBagSlots>1</MinFreeBagSlots>
 		
 	<QuestOrder>
-				<CustomBehavior File="FlyTo" DestName="Secret Fishing Spot" X="5598.965" Y="937.9141" Z="893.9304" />
-				<CustomBehavior File="FlyTo" DestName="Secret Fishing Spot" X="5892.357" Y="553.2592" Z="728.7241" />
-				<CustomBehavior File="FlyTo" DestName="Secret Fishing Spot" X="5893.306" Y="530.656" Z="641.309" />
+				<CustomBehavior File="FlyTo" DestName="Dalaran Mailbox" X="5598.965" Y="937.9141" Z="893.9304" />
+				<CustomBehavior File="FlyTo" DestName="Dalaran Mailbox" X="5892.357" Y="553.2592" Z="728.7241" />
+				<CustomBehavior File="FlyTo" DestName="Dalaran Mailbox" X="5893.306" Y="530.656" Z="641.309" />
 				<CustomBehavior File="ForcedDismount" />
 				
 
