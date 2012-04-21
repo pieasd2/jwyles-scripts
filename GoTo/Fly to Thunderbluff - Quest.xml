@@ -1,0 +1,16 @@
+<HBProfile>
+	<Name>GoTo Thunderbluff</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+		
+	<QuestOrder>
+
+				<CustomBehavior File="FlyTo" DestName="Thunderbluff" X="-1128.513" Y="-30.67715" Z="267.0931" />
+				<CustomBehavior File="ForcedDismount" />
+				
+
+	</QuestOrder>
+</HBProfile>
