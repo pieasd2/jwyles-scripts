@@ -1,0 +1,16 @@
+<HBProfile>
+	<Name>GoTo Wintergrasp Fishing Spot</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+		
+	<QuestOrder>
+
+				<CustomBehavior File="FlyTo" DestName="Secret Fishing Spot" X="4857.397" Y="2089.429" Z="422.0257" />
+				<CustomBehavior File="ForcedDismount" />
+				
+
+	</QuestOrder>
+</HBProfile>
