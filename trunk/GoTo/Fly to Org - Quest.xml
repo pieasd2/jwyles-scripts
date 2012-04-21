@@ -1,0 +1,16 @@
+<HBProfile>
+	<Name>GoTo Org</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+		
+	<QuestOrder>
+
+				<CustomBehavior File="FlyTo" DestName="Org" X="1885.205" Y="-4353.062" Z="228.9788" />
+				<CustomBehavior File="ForcedDismount" />
+				
+
+	</QuestOrder>
+</HBProfile>
