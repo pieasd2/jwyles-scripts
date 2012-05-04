@@ -1,0 +1,14 @@
+<HBProfile>
+	<Name>GoTo Brunnhildar Village</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+		
+	<QuestOrder>
+
+				<CustomBehavior File="FlyTo" DestName="Brunnhildar Village" X="7082.203" Y="-1776.046" Z="820.6476"  />
+
+	</QuestOrder>
+</HBProfile>
