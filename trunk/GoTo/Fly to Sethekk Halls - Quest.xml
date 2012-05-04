@@ -1,0 +1,16 @@
+<HBProfile>
+	<Name>GoTo Sethekk Halls</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+		
+	<QuestOrder>
+
+				<CustomBehavior File="FlyTo" DestName="Sethekk Halls" X="-3362.276" Y="4660.94" Z="-101.0485" />
+				<CustomBehavior File="ForcedDismount" />
+				
+
+	</QuestOrder>
+</HBProfile>
