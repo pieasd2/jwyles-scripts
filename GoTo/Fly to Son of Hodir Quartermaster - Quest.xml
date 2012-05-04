@@ -1,0 +1,14 @@
+<HBProfile>
+	<Name>GoTo Sons of Hodir Quartermaster</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+		
+	<QuestOrder>
+
+				<CustomBehavior File="FlyTo" DestName="Sons of Hodir Quartermaster" X="7286.191" Y="-2861.017" Z="822.0175"   />
+
+	</QuestOrder>
+</HBProfile>
