@@ -8,9 +8,10 @@
 		
 	<QuestOrder>
 
-				<CustomBehavior File="FlyTo" DestName="Sethekk Halls" X="-3362.276" Y="4660.94" Z="-101.0485" />
+				<CustomBehavior File="FlyTo" DestName="Sethekk Halls" X="-3361.71" Y="4792.551" Z="-101.3958" />
 				<CustomBehavior File="ForcedDismount" />
-				
+				<RunTo X="-3362.276" Y="4660.94" Z="-101.0485" />
+
 
 	</QuestOrder>
 </HBProfile>
